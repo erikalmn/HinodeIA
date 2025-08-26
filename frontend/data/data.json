@@ -1,0 +1,102 @@
+[
+    {
+        "id_produto": "001",
+        "nome_produto": "Maquiagem Consequuntur",
+        "data_última_venda": "2025-04-21",
+        "quantidade_em_estoque": 125,
+        "vendas_no_período": 36,
+        "estoque_no_início_do_período": 161,
+        "estoque_no_fim_do_período": 125,
+        "estoque_médio": 143.0
+    },
+    {
+        "id_produto": "002",
+        "nome_produto": "Perfume Impedit",
+        "data_última_venda": "2025-07-10",
+        "quantidade_em_estoque": 78,
+        "vendas_no_período": 27,
+        "estoque_no_início_do_período": 105,
+        "estoque_no_fim_do_período": 78,
+        "estoque_médio": 91.5
+    },
+    {
+        "id_produto": "003",
+        "nome_produto": "Shampoo Quo",
+        "data_última_venda": "2025-04-24",
+        "quantidade_em_estoque": 1,
+        "vendas_no_período": 60,
+        "estoque_no_início_do_período": 61,
+        "estoque_no_fim_do_período": 1,
+        "estoque_médio": 31.0
+    },
+    {
+        "id_produto": "004",
+        "nome_produto": "Sabonete Unde",
+        "data_última_venda": "2025-07-15",
+        "quantidade_em_estoque": 10,
+        "vendas_no_período": 186,
+        "estoque_no_início_do_período": 196,
+        "estoque_no_fim_do_período": 10,
+        "estoque_médio": 103.0
+    },
+    {
+        "id_produto": "005",
+        "nome_produto": "Shampoo Suscipit",
+        "data_última_venda": "2025-04-28",
+        "quantidade_em_estoque": 55,
+        "vendas_no_período": 38,
+        "estoque_no_início_do_período": 93,
+        "estoque_no_fim_do_período": 55,
+        "estoque_médio": 74.0
+    },
+    {
+        "id_produto": "006",
+        "nome_produto": "Maquiagem Ipsam",
+        "data_última_venda": "2025-06-19",
+        "quantidade_em_estoque": 82,
+        "vendas_no_período": 91,
+        "estoque_no_início_do_período": 173,
+        "estoque_no_fim_do_período": 82,
+        "estoque_médio": 127.5
+    },
+    {
+        "id_produto": "007",
+        "nome_produto": "Perfume Impedit",
+        "data_última_venda": "2025-07-11",
+        "quantidade_em_estoque": 52,
+        "vendas_no_período": 59,
+        "estoque_no_início_do_período": 111,
+        "estoque_no_fim_do_período": 52,
+        "estoque_médio": 81.5
+    },
+    {
+        "id_produto": "008",
+        "nome_produto": "Shampoo Aliquid",
+        "data_última_venda": "2025-07-21",
+        "quantidade_em_estoque": 14,
+        "vendas_no_período": 56,
+        "estoque_no_início_do_período": 70,
+        "estoque_no_fim_do_período": 14,
+        "estoque_médio": 42.0
+    },
+    {
+        "id_produto": "009",
+        "nome_produto": "Shampoo Eaque",
+        "data_última_venda": "2025-04-19",
+        "quantidade_em_estoque": 1,
+        "vendas_no_período": 75,
+        "estoque_no_início_do_período": 76,
+        "estoque_no_fim_do_período": 1,
+        "estoque_médio": 38.5
+    },
+    {
+        "id_produto": "010",
+        "nome_produto": "Shampoo Quod",
+        "data_última_venda": "2025-05-12",
+        "quantidade_em_estoque": 25,
+        "vendas_no_período": 9,
+        "estoque_no_início_do_período": 34,
+        "estoque_no_fim_do_período": 25,
+        "estoque_médio": 29.5
+    }
+]

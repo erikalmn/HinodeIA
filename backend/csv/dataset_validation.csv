@@ -1,0 +1,21 @@
+id_produto,nome_produto,data_última_venda,quantidade_em_estoque,vendas_no_período,estoque_no_início_do_período,estoque_no_fim_do_período,estoque_médio,rotatividade
+P001,Maquiagem Consequuntur,2025-04-21,125,36,161,125,143.0,baixa
+P002,Perfume Impedit,2025-07-10,78,27,105,78,91.5,baixa
+P003,Shampoo Quo,2025-04-24,1,60,61,1,31.0,alta
+P004,Sabonete Unde,2025-07-15,10,186,196,10,103.0,alta
+P005,Shampoo Suscipit,2025-04-28,55,38,93,55,74.0,alta
+P006,Maquiagem Ipsam,2025-06-19,82,91,173,82,127.5,alta
+P007,Perfume Impedit,2025-07-11,52,59,111,52,81.5,alta
+P008,Shampoo Aliquid,2025-07-21,14,56,70,14,42.0,alta
+P009,Shampoo Eaque,2025-04-19,1,75,76,1,38.5,alta
+P010,Shampoo Quod,2025-05-12,25,9,34,25,29.5,baixa
+P011,Sabonete Maiores,2025-06-12,5,22,27,5,16.0,alta
+P012,Condicionador Nostrum,2025-04-23,71,101,172,71,121.5,alta
+P013,Sabonete Assumenda,2025-06-11,35,2,37,35,36.0,baixa
+P014,Creme Hidratante Nihil,2025-05-02,84,107,191,84,137.5,alta
+P015,Creme Hidratante Odit,2025-07-27,73,6,79,73,76.0,baixa
+P016,Creme Hidratante Suscipit,2025-07-15,3,130,133,3,68.0,alta
+P017,Perfume Voluptates,2025-04-20,12,165,177,12,94.5,alta
+P018,Sabonete Harum,2025-06-30,114,6,120,114,117.0,baixa
+P019,Shampoo Cupiditate,2025-05-02,28,65,93,28,60.5,alta
+P020,Maquiagem Harum,2025-05-23,4,21,25,4,14.5,alta

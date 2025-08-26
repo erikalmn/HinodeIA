@@ -1,0 +1,1001 @@
+id_produto,nome_produto,data_última_venda,quantidade_em_estoque,vendas_no_período,estoque_no_início_do_período,estoque_no_fim_do_período,estoque_médio,rotatividade
+P001,Shampoo Minus,2025-05-20,97,88,185,97,141.0,alta
+P002,Perfume Qui,2025-05-18,30,47,77,30,53.5,alta
+P003,Óleo corporal Quia,2025-05-09,54,129,183,54,118.5,alta
+P004,Óleo corporal Deleniti,2025-04-07,46,77,123,46,84.5,alta
+P005,Creme Hidratante Fugiat,2025-07-11,27,8,35,27,31.0,baixa
+P006,Perfume Magni,2025-05-26,15,29,44,15,29.5,alta
+P007,Sabonete Consequuntur,2025-07-05,8,125,133,8,70.5,alta
+P008,Creme Hidratante Enim,2025-06-20,18,65,83,18,50.5,alta
+P009,Óleo corporal Aut,2025-07-17,138,47,185,138,161.5,baixa
+P010,Maquiagem Deserunt,2025-06-03,86,113,199,86,142.5,alta
+P011,Óleo corporal Neque,2025-05-17,59,109,168,59,113.5,alta
+P012,Perfume Illum,2025-04-21,146,25,171,146,158.5,baixa
+P013,Shampoo Sint,2025-05-17,102,67,169,102,135.5,baixa
+P014,Sabonete Occaecati,2025-04-20,18,67,85,18,51.5,alta
+P015,Condicionador Officiis,2025-06-08,9,33,42,9,25.5,alta
+P016,Sabonete Aliquam,2025-07-17,147,46,193,147,170.0,baixa
+P017,Condicionador Ipsum,2025-06-23,97,65,162,97,129.5,alta
+P018,Condicionador Possimus,2025-04-04,82,4,86,82,84.0,baixa
+P019,Óleo corporal Maiores,2025-07-05,22,9,31,22,26.5,baixa
+P020,Creme Hidratante Reiciendis,2025-04-19,112,84,196,112,154.0,alta
+P021,Maquiagem Doloremque,2025-07-02,43,31,74,43,58.5,alta
+P022,Óleo corporal Fuga,2025-05-22,83,64,147,83,115.0,alta
+P023,Condicionador Necessitatibus,2025-05-11,89,1,90,89,89.5,baixa
+P024,Sabonete Incidunt,2025-06-06,144,36,180,144,162.0,baixa
+P025,Creme Hidratante Rem,2025-05-21,24,13,37,24,30.5,baixa
+P026,Creme Hidratante Possimus,2025-04-11,24,39,63,24,43.5,alta
+P027,Perfume Ea,2025-06-14,40,139,179,40,109.5,alta
+P028,Shampoo Vitae,2025-05-19,34,28,62,34,48.0,alta
+P029,Condicionador Maiores,2025-07-24,134,26,160,134,147.0,baixa
+P030,Perfume Mollitia,2025-05-05,77,36,113,77,95.0,baixa
+P031,Shampoo Eos,2025-04-28,0,127,127,0,63.5,alta
+P032,Creme Hidratante Expedita,2025-07-12,103,85,188,103,145.5,alta
+P033,Creme Hidratante Aperiam,2025-06-01,168,31,199,168,183.5,baixa
+P034,Perfume Recusandae,2025-04-23,131,32,163,131,147.0,baixa
+P035,Perfume Nemo,2025-05-17,50,3,53,50,51.5,baixa
+P036,Creme Hidratante Corporis,2025-06-01,37,94,131,37,84.0,alta
+P037,Creme Hidratante Enim,2025-05-26,0,31,31,0,15.5,alta
+P038,Creme Hidratante Laborum,2025-05-30,13,27,40,13,26.5,alta
+P039,Perfume Sapiente,2025-04-17,30,143,173,30,101.5,alta
+P040,Condicionador Omnis,2025-04-23,76,26,102,76,89.0,baixa
+P041,Creme Hidratante Nobis,2025-05-24,111,2,113,111,112.0,baixa
+P042,Maquiagem Totam,2025-05-26,13,72,85,13,49.0,alta
+P043,Creme Hidratante Iusto,2025-05-01,34,15,49,34,41.5,baixa
+P044,Sabonete Vel,2025-06-01,0,35,35,0,17.5,alta
+P045,Shampoo Minus,2025-07-02,103,0,103,103,103.0,baixa
+P046,Creme Hidratante Non,2025-04-25,46,73,119,46,82.5,alta
+P047,Sabonete Quasi,2025-05-30,57,74,131,57,94.0,alta
+P048,Sabonete Eius,2025-06-10,66,47,113,66,89.5,alta
+P049,Condicionador Natus,2025-04-04,11,165,176,11,93.5,alta
+P050,Shampoo Animi,2025-06-10,113,4,117,113,115.0,baixa
+P051,Creme Hidratante Similique,2025-04-13,65,5,70,65,67.5,baixa
+P052,Condicionador Aperiam,2025-07-19,167,2,169,167,168.0,baixa
+P053,Creme Hidratante Optio,2025-05-08,75,105,180,75,127.5,alta
+P054,Óleo corporal Dolor,2025-07-15,17,7,24,17,20.5,baixa
+P055,Creme Hidratante Aspernatur,2025-06-01,9,17,26,9,17.5,alta
+P056,Shampoo Repudiandae,2025-07-12,3,27,30,3,16.5,alta
+P057,Condicionador Vero,2025-05-17,23,136,159,23,91.0,alta
+P058,Shampoo Delectus,2025-05-30,47,3,50,47,48.5,baixa
+P059,Perfume Perferendis,2025-05-08,17,4,21,17,19.0,baixa
+P060,Creme Hidratante Quod,2025-07-16,27,24,51,27,39.0,alta
+P061,Maquiagem Mollitia,2025-05-13,5,26,31,5,18.0,alta
+P062,Creme Hidratante Quaerat,2025-05-01,73,108,181,73,127.0,alta
+P063,Sabonete Nihil,2025-04-13,5,17,22,5,13.5,alta
+P064,Maquiagem Nemo,2025-07-05,63,87,150,63,106.5,alta
+P065,Condicionador Ab,2025-07-07,79,7,86,79,82.5,baixa
+P066,Perfume Nemo,2025-06-16,135,6,141,135,138.0,baixa
+P067,Condicionador Illo,2025-04-15,0,138,138,0,69.0,alta
+P068,Maquiagem Maiores,2025-04-28,61,91,152,61,106.5,alta
+P069,Condicionador Expedita,2025-05-19,92,61,153,92,122.5,baixa
+P070,Perfume Qui,2025-07-07,52,121,173,52,112.5,alta
+P071,Maquiagem Quis,2025-06-18,27,78,105,27,66.0,alta
+P072,Perfume Rem,2025-05-01,41,21,62,41,51.5,baixa
+P073,Sabonete Similique,2025-07-06,1,29,30,1,15.5,alta
+P074,Perfume Aliquam,2025-04-12,145,2,147,145,146.0,baixa
+P075,Condicionador Sit,2025-07-02,1,43,44,1,22.5,alta
+P076,Creme Hidratante Voluptatibus,2025-05-05,51,4,55,51,53.0,baixa
+P077,Condicionador Ipsa,2025-06-04,126,64,190,126,158.0,baixa
+P078,Condicionador Expedita,2025-05-16,34,139,173,34,103.5,alta
+P079,Sabonete Veniam,2025-07-18,45,4,49,45,47.0,baixa
+P080,Creme Hidratante Quo,2025-06-22,81,19,100,81,90.5,baixa
+P081,Condicionador Minima,2025-07-10,64,10,74,64,69.0,baixa
+P082,Maquiagem Similique,2025-04-05,159,20,179,159,169.0,baixa
+P083,Condicionador Accusamus,2025-04-27,10,87,97,10,53.5,alta
+P084,Shampoo Minima,2025-05-26,131,34,165,131,148.0,baixa
+P085,Maquiagem Repellat,2025-06-28,103,16,119,103,111.0,baixa
+P086,Creme Hidratante Doloremque,2025-04-24,16,48,64,16,40.0,alta
+P087,Shampoo Saepe,2025-04-17,119,42,161,119,140.0,baixa
+P088,Perfume Delectus,2025-05-17,83,39,122,83,102.5,baixa
+P089,Maquiagem Corporis,2025-04-28,51,138,189,51,120.0,alta
+P090,Sabonete Repellat,2025-04-05,39,67,106,39,72.5,alta
+P091,Creme Hidratante Sapiente,2025-07-29,81,23,104,81,92.5,baixa
+P092,Sabonete Iure,2025-07-28,66,25,91,66,78.5,baixa
+P093,Óleo corporal Fugiat,2025-07-17,8,29,37,8,22.5,alta
+P094,Creme Hidratante Suscipit,2025-06-25,18,80,98,18,58.0,alta
+P095,Maquiagem Corrupti,2025-04-20,3,89,92,3,47.5,alta
+P096,Condicionador Molestiae,2025-05-07,15,35,50,15,32.5,alta
+P097,Perfume Beatae,2025-05-19,102,24,126,102,114.0,baixa
+P098,Perfume Libero,2025-04-15,99,41,140,99,119.5,baixa
+P099,Perfume Voluptatum,2025-06-27,3,49,52,3,27.5,alta
+P100,Creme Hidratante Quas,2025-07-28,82,92,174,82,128.0,alta
+P101,Óleo corporal Perferendis,2025-07-06,45,133,178,45,111.5,alta
+P102,Condicionador Aspernatur,2025-05-31,56,64,120,56,88.0,alta
+P103,Creme Hidratante Ab,2025-05-18,48,108,156,48,102.0,alta
+P104,Maquiagem Hic,2025-06-18,15,176,191,15,103.0,alta
+P105,Perfume Nulla,2025-05-14,141,20,161,141,151.0,baixa
+P106,Sabonete Veniam,2025-04-14,85,10,95,85,90.0,baixa
+P107,Shampoo Repellat,2025-07-10,146,26,172,146,159.0,baixa
+P108,Condicionador Ullam,2025-05-22,6,15,21,6,13.5,alta
+P109,Sabonete Minima,2025-04-04,65,87,152,65,108.5,alta
+P110,Sabonete Provident,2025-06-21,95,74,169,95,132.0,alta
+P111,Óleo corporal Id,2025-07-24,102,89,191,102,146.5,alta
+P112,Maquiagem Omnis,2025-06-28,26,27,53,26,39.5,alta
+P113,Maquiagem Itaque,2025-07-01,5,70,75,5,40.0,alta
+P114,Sabonete Cumque,2025-07-18,33,13,46,33,39.5,baixa
+P115,Creme Hidratante Repellendus,2025-05-04,15,86,101,15,58.0,alta
+P116,Condicionador Dicta,2025-06-26,47,38,85,47,66.0,alta
+P117,Óleo corporal Accusamus,2025-04-29,50,122,172,50,111.0,alta
+P118,Creme Hidratante Ducimus,2025-05-14,93,35,128,93,110.5,baixa
+P119,Perfume Possimus,2025-05-10,62,60,122,62,92.0,alta
+P120,Creme Hidratante Est,2025-05-10,26,10,36,26,31.0,baixa
+P121,Creme Hidratante Nesciunt,2025-05-27,52,9,61,52,56.5,baixa
+P122,Shampoo Dolor,2025-06-08,55,10,65,55,60.0,baixa
+P123,Perfume Odio,2025-04-02,15,49,64,15,39.5,alta
+P124,Condicionador Illum,2025-07-10,26,126,152,26,89.0,alta
+P125,Sabonete Provident,2025-04-12,57,10,67,57,62.0,baixa
+P126,Sabonete Fugit,2025-06-07,62,88,150,62,106.0,alta
+P127,Condicionador Natus,2025-04-14,18,16,34,18,26.0,alta
+P128,Maquiagem Hic,2025-04-10,152,47,199,152,175.5,baixa
+P129,Óleo corporal Quibusdam,2025-05-12,31,71,102,31,66.5,alta
+P130,Sabonete Vitae,2025-07-14,86,1,87,86,86.5,baixa
+P131,Shampoo Facere,2025-06-03,44,95,139,44,91.5,alta
+P132,Óleo corporal Repudiandae,2025-06-08,73,18,91,73,82.0,baixa
+P133,Perfume Aliquam,2025-04-20,12,91,103,12,57.5,alta
+P134,Condicionador Dignissimos,2025-04-02,0,50,50,0,25.0,alta
+P135,Shampoo Ipsa,2025-06-19,0,71,71,0,35.5,alta
+P136,Sabonete Assumenda,2025-06-30,66,15,81,66,73.5,baixa
+P137,Condicionador Adipisci,2025-06-21,40,92,132,40,86.0,alta
+P138,Sabonete Error,2025-05-15,95,85,180,95,137.5,alta
+P139,Óleo corporal Inventore,2025-05-18,15,40,55,15,35.0,alta
+P140,Sabonete Omnis,2025-07-03,121,65,186,121,153.5,baixa
+P141,Sabonete Veritatis,2025-07-24,74,5,79,74,76.5,baixa
+P142,Perfume Voluptates,2025-07-13,166,7,173,166,169.5,baixa
+P143,Maquiagem Inventore,2025-07-03,44,92,136,44,90.0,alta
+P144,Condicionador Modi,2025-06-11,5,85,90,5,47.5,alta
+P145,Perfume Repudiandae,2025-07-28,72,96,168,72,120.0,alta
+P146,Creme Hidratante Voluptatibus,2025-07-24,95,33,128,95,111.5,baixa
+P147,Condicionador Quo,2025-06-22,5,15,20,5,12.5,alta
+P148,Creme Hidratante Voluptatum,2025-04-28,47,0,47,47,47.0,baixa
+P149,Shampoo Qui,2025-04-09,23,2,25,23,24.0,baixa
+P150,Maquiagem Voluptates,2025-04-14,100,37,137,100,118.5,baixa
+P151,Condicionador Iusto,2025-04-10,21,162,183,21,102.0,alta
+P152,Maquiagem Iste,2025-06-06,75,21,96,75,85.5,baixa
+P153,Creme Hidratante Dolorem,2025-04-12,106,22,128,106,117.0,baixa
+P154,Creme Hidratante Neque,2025-05-14,50,52,102,50,76.0,alta
+P155,Creme Hidratante Placeat,2025-05-20,34,61,95,34,64.5,alta
+P156,Perfume Eius,2025-07-01,56,19,75,56,65.5,baixa
+P157,Perfume Id,2025-04-20,16,22,38,16,27.0,alta
+P158,Condicionador Veniam,2025-06-21,26,91,117,26,71.5,alta
+P159,Perfume Cumque,2025-04-11,52,47,99,52,75.5,alta
+P160,Condicionador Tempore,2025-05-25,101,70,171,101,136.0,alta
+P161,Maquiagem Cum,2025-06-12,83,42,125,83,104.0,baixa
+P162,Maquiagem Magnam,2025-04-22,105,42,147,105,126.0,baixa
+P163,Creme Hidratante Dolorem,2025-07-08,71,7,78,71,74.5,baixa
+P164,Maquiagem Natus,2025-06-28,85,13,98,85,91.5,baixa
+P165,Maquiagem Quae,2025-05-23,19,13,32,19,25.5,alta
+P166,Maquiagem Voluptates,2025-05-01,43,70,113,43,78.0,alta
+P167,Óleo corporal Earum,2025-04-26,62,84,146,62,104.0,alta
+P168,Maquiagem Harum,2025-07-13,19,68,87,19,53.0,alta
+P169,Maquiagem Fuga,2025-05-31,65,12,77,65,71.0,baixa
+P170,Condicionador Illo,2025-07-02,29,4,33,29,31.0,baixa
+P171,Condicionador Officia,2025-05-19,37,127,164,37,100.5,alta
+P172,Creme Hidratante Dolor,2025-06-21,192,3,195,192,193.5,baixa
+P173,Óleo corporal Quos,2025-07-11,2,44,46,2,24.0,alta
+P174,Óleo corporal Harum,2025-07-14,46,7,53,46,49.5,baixa
+P175,Óleo corporal Officiis,2025-05-27,14,144,158,14,86.0,alta
+P176,Maquiagem Quaerat,2025-04-01,25,63,88,25,56.5,alta
+P177,Sabonete Deserunt,2025-04-28,56,110,166,56,111.0,alta
+P178,Shampoo Eveniet,2025-07-17,12,45,57,12,34.5,alta
+P179,Shampoo Odio,2025-06-29,17,89,106,17,61.5,alta
+P180,Creme Hidratante Quasi,2025-04-21,49,50,99,49,74.0,alta
+P181,Sabonete Magni,2025-05-04,79,66,145,79,112.0,alta
+P182,Sabonete Dicta,2025-06-10,12,50,62,12,37.0,alta
+P183,Creme Hidratante Alias,2025-05-27,113,53,166,113,139.5,baixa
+P184,Maquiagem Reprehenderit,2025-04-03,45,4,49,45,47.0,baixa
+P185,Sabonete Laborum,2025-05-01,0,124,124,0,62.0,alta
+P186,Sabonete Tempore,2025-06-11,61,40,101,61,81.0,baixa
+P187,Óleo corporal Laudantium,2025-05-02,158,19,177,158,167.5,baixa
+P188,Perfume Quaerat,2025-05-10,97,54,151,97,124.0,baixa
+P189,Condicionador Amet,2025-07-15,71,80,151,71,111.0,alta
+P190,Sabonete Aliquam,2025-06-21,39,139,178,39,108.5,alta
+P191,Sabonete Tempora,2025-06-15,14,95,109,14,61.5,alta
+P192,Shampoo Minima,2025-04-19,102,4,106,102,104.0,baixa
+P193,Creme Hidratante Ab,2025-04-15,15,7,22,15,18.5,baixa
+P194,Óleo corporal Quidem,2025-06-15,73,118,191,73,132.0,alta
+P195,Óleo corporal Dolorum,2025-07-25,28,68,96,28,62.0,alta
+P196,Sabonete Aperiam,2025-05-07,99,51,150,99,124.5,baixa
+P197,Óleo corporal Ut,2025-07-06,23,167,190,23,106.5,alta
+P198,Condicionador Aliquid,2025-05-13,18,39,57,18,37.5,alta
+P199,Shampoo Qui,2025-05-21,51,107,158,51,104.5,alta
+P200,Maquiagem Quod,2025-06-24,40,41,81,40,60.5,alta
+P201,Creme Hidratante Facilis,2025-06-05,34,157,191,34,112.5,alta
+P202,Shampoo Ullam,2025-06-05,111,76,187,111,149.0,alta
+P203,Creme Hidratante Nulla,2025-06-19,53,134,187,53,120.0,alta
+P204,Maquiagem Ipsa,2025-04-24,69,23,92,69,80.5,baixa
+P205,Perfume Eius,2025-05-31,21,61,82,21,51.5,alta
+P206,Condicionador Ad,2025-04-04,142,44,186,142,164.0,baixa
+P207,Maquiagem Harum,2025-06-26,43,48,91,43,67.0,alta
+P208,Condicionador Ab,2025-04-22,10,45,55,10,32.5,alta
+P209,Maquiagem Labore,2025-05-18,8,118,126,8,67.0,alta
+P210,Maquiagem Quam,2025-04-26,97,99,196,97,146.5,alta
+P211,Maquiagem Ducimus,2025-06-19,30,17,47,30,38.5,baixa
+P212,Creme Hidratante Odio,2025-04-02,132,13,145,132,138.5,baixa
+P213,Condicionador Sit,2025-07-13,14,8,22,14,18.0,baixa
+P214,Shampoo Iure,2025-06-29,137,21,158,137,147.5,baixa
+P215,Óleo corporal Sunt,2025-07-26,17,43,60,17,38.5,alta
+P216,Óleo corporal Illo,2025-06-22,63,9,72,63,67.5,baixa
+P217,Sabonete Est,2025-07-03,102,35,137,102,119.5,baixa
+P218,Óleo corporal Tempore,2025-07-27,12,163,175,12,93.5,alta
+P219,Maquiagem Rem,2025-05-22,81,14,95,81,88.0,baixa
+P220,Condicionador Occaecati,2025-06-02,23,28,51,23,37.0,alta
+P221,Maquiagem Sint,2025-05-10,30,15,45,30,37.5,baixa
+P222,Óleo corporal Veniam,2025-04-05,18,24,42,18,30.0,alta
+P223,Perfume Qui,2025-06-21,47,30,77,47,62.0,baixa
+P224,Perfume Ullam,2025-05-24,15,63,78,15,46.5,alta
+P225,Creme Hidratante A,2025-07-23,90,34,124,90,107.0,baixa
+P226,Perfume Iste,2025-05-17,63,34,97,63,80.0,baixa
+P227,Óleo corporal Voluptates,2025-04-02,18,84,102,18,60.0,alta
+P228,Perfume Ducimus,2025-06-12,44,129,173,44,108.5,alta
+P229,Óleo corporal Blanditiis,2025-06-16,19,5,24,19,21.5,baixa
+P230,Creme Hidratante Reprehenderit,2025-07-27,42,5,47,42,44.5,baixa
+P231,Óleo corporal Odio,2025-04-05,46,132,178,46,112.0,alta
+P232,Perfume Perferendis,2025-04-19,70,87,157,70,113.5,alta
+P233,Condicionador A,2025-04-27,81,75,156,81,118.5,alta
+P234,Creme Hidratante Rem,2025-05-01,71,92,163,71,117.0,alta
+P235,Condicionador Fugiat,2025-07-08,52,139,191,52,121.5,alta
+P236,Sabonete Odio,2025-05-03,15,10,25,15,20.0,baixa
+P237,Sabonete Voluptate,2025-06-30,11,9,20,11,15.5,alta
+P238,Maquiagem Eum,2025-04-16,113,61,174,113,143.5,baixa
+P239,Maquiagem Nobis,2025-05-29,25,37,62,25,43.5,alta
+P240,Maquiagem Vero,2025-07-13,7,116,123,7,65.0,alta
+P241,Perfume Blanditiis,2025-04-21,0,52,52,0,26.0,alta
+P242,Condicionador Voluptatem,2025-04-26,4,45,49,4,26.5,alta
+P243,Perfume Modi,2025-06-01,13,7,20,13,16.5,baixa
+P244,Óleo corporal Ad,2025-04-15,57,135,192,57,124.5,alta
+P245,Shampoo Asperiores,2025-05-02,143,18,161,143,152.0,baixa
+P246,Condicionador Maiores,2025-06-17,23,39,62,23,42.5,alta
+P247,Condicionador Blanditiis,2025-05-19,2,30,32,2,17.0,alta
+P248,Óleo corporal Architecto,2025-06-04,44,65,109,44,76.5,alta
+P249,Sabonete Illo,2025-06-13,24,111,135,24,79.5,alta
+P250,Sabonete Voluptates,2025-07-20,66,100,166,66,116.0,alta
+P251,Sabonete Culpa,2025-04-04,28,39,67,28,47.5,alta
+P252,Condicionador Veritatis,2025-07-09,78,115,193,78,135.5,alta
+P253,Shampoo Ab,2025-05-06,49,151,200,49,124.5,alta
+P254,Maquiagem Facilis,2025-05-09,22,6,28,22,25.0,baixa
+P255,Perfume Reprehenderit,2025-07-01,122,20,142,122,132.0,baixa
+P256,Sabonete Delectus,2025-04-23,15,8,23,15,19.0,baixa
+P257,Condicionador Ab,2025-05-26,20,62,82,20,51.0,alta
+P258,Shampoo Fugiat,2025-07-07,29,0,29,29,29.0,baixa
+P259,Óleo corporal Blanditiis,2025-05-28,130,62,192,130,161.0,baixa
+P260,Sabonete In,2025-04-02,13,15,28,13,20.5,alta
+P261,Perfume Nesciunt,2025-05-06,83,15,98,83,90.5,baixa
+P262,Perfume Corrupti,2025-04-23,144,15,159,144,151.5,baixa
+P263,Perfume Omnis,2025-07-26,131,37,168,131,149.5,baixa
+P264,Sabonete Laborum,2025-05-02,7,80,87,7,47.0,alta
+P265,Condicionador Quod,2025-05-02,2,55,57,2,29.5,alta
+P266,Maquiagem Vitae,2025-06-06,77,54,131,77,104.0,alta
+P267,Maquiagem Suscipit,2025-06-10,138,9,147,138,142.5,baixa
+P268,Perfume Ipsam,2025-06-05,71,24,95,71,83.0,baixa
+P269,Creme Hidratante Commodi,2025-06-07,98,77,175,98,136.5,alta
+P270,Condicionador Odit,2025-07-15,34,2,36,34,35.0,baixa
+P271,Sabonete Exercitationem,2025-04-02,26,17,43,26,34.5,baixa
+P272,Perfume Consequatur,2025-05-18,8,28,36,8,22.0,alta
+P273,Creme Hidratante Porro,2025-06-30,88,103,191,88,139.5,alta
+P274,Maquiagem Natus,2025-04-25,61,15,76,61,68.5,baixa
+P275,Maquiagem Vel,2025-05-22,7,62,69,7,38.0,alta
+P276,Sabonete Officiis,2025-07-16,36,125,161,36,98.5,alta
+P277,Perfume Sed,2025-06-30,9,87,96,9,52.5,alta
+P278,Perfume Inventore,2025-06-11,61,48,109,61,85.0,alta
+P279,Creme Hidratante A,2025-06-22,74,78,152,74,113.0,alta
+P280,Shampoo Amet,2025-05-07,41,8,49,41,45.0,baixa
+P281,Perfume Vero,2025-05-21,133,36,169,133,151.0,baixa
+P282,Shampoo Nisi,2025-07-01,28,136,164,28,96.0,alta
+P283,Creme Hidratante Dolore,2025-05-24,14,9,23,14,18.5,baixa
+P284,Sabonete Sequi,2025-05-06,74,6,80,74,77.0,baixa
+P285,Creme Hidratante Ratione,2025-05-26,27,137,164,27,95.5,alta
+P286,Sabonete Iure,2025-05-29,91,62,153,91,122.0,alta
+P287,Condicionador Accusamus,2025-04-27,138,34,172,138,155.0,baixa
+P288,Sabonete Tempore,2025-05-31,60,84,144,60,102.0,alta
+P289,Sabonete Dolore,2025-06-21,18,90,108,18,63.0,alta
+P290,Maquiagem Dolorum,2025-07-24,86,17,103,86,94.5,baixa
+P291,Condicionador Voluptate,2025-07-21,68,52,120,68,94.0,alta
+P292,Perfume Omnis,2025-05-07,46,151,197,46,121.5,alta
+P293,Shampoo Cupiditate,2025-05-30,3,68,71,3,37.0,alta
+P294,Maquiagem In,2025-05-02,56,139,195,56,125.5,alta
+P295,Óleo corporal Tempore,2025-06-18,10,68,78,10,44.0,alta
+P296,Creme Hidratante Recusandae,2025-06-10,42,102,144,42,93.0,alta
+P297,Condicionador Iure,2025-04-29,62,48,110,62,86.0,alta
+P298,Creme Hidratante Suscipit,2025-04-17,140,43,183,140,161.5,baixa
+P299,Condicionador Earum,2025-07-28,35,120,155,35,95.0,alta
+P300,Creme Hidratante Aliquam,2025-07-08,15,15,30,15,22.5,alta
+P301,Shampoo Eum,2025-04-05,28,34,62,28,45.0,alta
+P302,Sabonete Saepe,2025-06-05,62,84,146,62,104.0,alta
+P303,Perfume Tempora,2025-05-29,66,122,188,66,127.0,alta
+P304,Perfume Natus,2025-05-30,133,59,192,133,162.5,baixa
+P305,Sabonete Ad,2025-05-30,1,118,119,1,60.0,alta
+P306,Shampoo Sunt,2025-04-14,102,11,113,102,107.5,baixa
+P307,Perfume Ut,2025-07-07,37,15,52,37,44.5,baixa
+P308,Maquiagem Debitis,2025-04-06,49,28,77,49,63.0,baixa
+P309,Perfume Laborum,2025-05-01,42,57,99,42,70.5,alta
+P310,Maquiagem Atque,2025-06-20,100,3,103,100,101.5,baixa
+P311,Shampoo Rerum,2025-04-25,4,168,172,4,88.0,alta
+P312,Perfume Unde,2025-04-07,67,115,182,67,124.5,alta
+P313,Sabonete Aspernatur,2025-05-21,29,135,164,29,96.5,alta
+P314,Sabonete Earum,2025-06-10,86,104,190,86,138.0,alta
+P315,Creme Hidratante Numquam,2025-04-03,16,171,187,16,101.5,alta
+P316,Shampoo Blanditiis,2025-04-15,44,143,187,44,115.5,alta
+P317,Perfume Consequuntur,2025-04-25,111,83,194,111,152.5,alta
+P318,Condicionador Pariatur,2025-04-06,60,25,85,60,72.5,baixa
+P319,Sabonete Incidunt,2025-04-01,23,167,190,23,106.5,alta
+P320,Maquiagem Atque,2025-05-18,59,115,174,59,116.5,alta
+P321,Condicionador Pariatur,2025-05-27,12,42,54,12,33.0,alta
+P322,Sabonete Recusandae,2025-07-19,33,4,37,33,35.0,baixa
+P323,Creme Hidratante Rerum,2025-07-29,33,6,39,33,36.0,baixa
+P324,Condicionador Aut,2025-05-15,14,105,119,14,66.5,alta
+P325,Condicionador Ipsum,2025-06-20,15,20,35,15,25.0,alta
+P326,Maquiagem Maxime,2025-07-07,131,12,143,131,137.0,baixa
+P327,Sabonete Animi,2025-04-09,49,127,176,49,112.5,alta
+P328,Shampoo Voluptates,2025-04-26,71,6,77,71,74.0,baixa
+P329,Maquiagem Doloribus,2025-07-25,37,2,39,37,38.0,baixa
+P330,Shampoo Occaecati,2025-06-13,76,45,121,76,98.5,baixa
+P331,Maquiagem Incidunt,2025-04-29,81,68,149,81,115.0,alta
+P332,Perfume Velit,2025-05-23,44,23,67,44,55.5,baixa
+P333,Shampoo Nemo,2025-06-05,42,15,57,42,49.5,baixa
+P334,Condicionador Tenetur,2025-06-26,34,48,82,34,58.0,alta
+P335,Óleo corporal Rem,2025-07-15,79,73,152,79,115.5,alta
+P336,Perfume Repellendus,2025-07-17,2,25,27,2,14.5,alta
+P337,Creme Hidratante Commodi,2025-05-22,11,11,22,11,16.5,alta
+P338,Sabonete Voluptatem,2025-04-11,142,43,185,142,163.5,baixa
+P339,Perfume Possimus,2025-07-12,0,182,182,0,91.0,alta
+P340,Maquiagem Voluptatibus,2025-07-02,25,36,61,25,43.0,alta
+P341,Creme Hidratante Reiciendis,2025-06-18,96,95,191,96,143.5,alta
+P342,Condicionador Placeat,2025-06-28,19,13,32,19,25.5,alta
+P343,Creme Hidratante Reiciendis,2025-04-03,61,139,200,61,130.5,alta
+P344,Perfume Qui,2025-06-25,62,51,113,62,87.5,alta
+P345,Shampoo Quisquam,2025-07-11,141,13,154,141,147.5,baixa
+P346,Maquiagem Sapiente,2025-07-01,79,17,96,79,87.5,baixa
+P347,Sabonete Quaerat,2025-07-28,26,2,28,26,27.0,baixa
+P348,Creme Hidratante Ab,2025-05-12,37,87,124,37,80.5,alta
+P349,Condicionador Quo,2025-07-28,145,45,190,145,167.5,baixa
+P350,Condicionador Accusamus,2025-05-13,135,56,191,135,163.0,baixa
+P351,Óleo corporal Corporis,2025-04-15,90,63,153,90,121.5,alta
+P352,Óleo corporal Minus,2025-04-13,33,0,33,33,33.0,baixa
+P353,Condicionador Inventore,2025-04-29,33,30,63,33,48.0,alta
+P354,Perfume Doloremque,2025-04-21,25,21,46,25,35.5,alta
+P355,Maquiagem Non,2025-05-25,89,4,93,89,91.0,baixa
+P356,Shampoo Consectetur,2025-05-08,13,97,110,13,61.5,alta
+P357,Creme Hidratante Excepturi,2025-04-13,5,32,37,5,21.0,alta
+P358,Shampoo Harum,2025-05-18,55,42,97,55,76.0,alta
+P359,Óleo corporal Accusamus,2025-06-11,6,32,38,6,22.0,alta
+P360,Óleo corporal Numquam,2025-07-21,21,4,25,21,23.0,baixa
+P361,Perfume Quisquam,2025-06-03,33,1,34,33,33.5,baixa
+P362,Óleo corporal Cupiditate,2025-05-11,69,79,148,69,108.5,alta
+P363,Sabonete Quae,2025-07-10,20,42,62,20,41.0,alta
+P364,Creme Hidratante Assumenda,2025-04-29,41,19,60,41,50.5,baixa
+P365,Maquiagem Ipsa,2025-04-14,17,176,193,17,105.0,alta
+P366,Maquiagem Blanditiis,2025-07-19,74,0,74,74,74.0,baixa
+P367,Maquiagem Veritatis,2025-04-23,75,5,80,75,77.5,baixa
+P368,Sabonete Soluta,2025-05-16,0,30,30,0,15.0,alta
+P369,Creme Hidratante Nostrum,2025-07-05,26,7,33,26,29.5,baixa
+P370,Sabonete Optio,2025-07-10,157,18,175,157,166.0,baixa
+P371,Sabonete Quos,2025-07-14,25,123,148,25,86.5,alta
+P372,Creme Hidratante Maiores,2025-07-15,25,153,178,25,101.5,alta
+P373,Perfume At,2025-07-29,3,27,30,3,16.5,alta
+P374,Maquiagem Aspernatur,2025-04-22,24,148,172,24,98.0,alta
+P375,Maquiagem Architecto,2025-04-19,10,34,44,10,27.0,alta
+P376,Perfume Deserunt,2025-05-24,56,41,97,56,76.5,alta
+P377,Perfume Fuga,2025-05-18,99,1,100,99,99.5,baixa
+P378,Shampoo Molestiae,2025-07-14,14,49,63,14,38.5,alta
+P379,Creme Hidratante Voluptatem,2025-06-22,51,118,169,51,110.0,alta
+P380,Óleo corporal Vel,2025-05-22,56,38,94,56,75.0,alta
+P381,Creme Hidratante Cumque,2025-07-02,41,36,77,41,59.0,alta
+P382,Sabonete Quae,2025-06-13,113,0,113,113,113.0,baixa
+P383,Perfume Aliquam,2025-04-09,57,135,192,57,124.5,alta
+P384,Creme Hidratante Veniam,2025-07-19,13,46,59,13,36.0,alta
+P385,Condicionador Nemo,2025-05-03,63,11,74,63,68.5,baixa
+P386,Maquiagem Laboriosam,2025-05-03,84,48,132,84,108.0,baixa
+P387,Condicionador Voluptates,2025-06-27,95,26,121,95,108.0,baixa
+P388,Sabonete Tenetur,2025-07-20,115,75,190,115,152.5,baixa
+P389,Óleo corporal Tempore,2025-04-22,39,47,86,39,62.5,alta
+P390,Óleo corporal Omnis,2025-05-08,75,105,180,75,127.5,alta
+P391,Shampoo Ad,2025-05-09,54,16,70,54,62.0,baixa
+P392,Creme Hidratante Nobis,2025-07-27,76,31,107,76,91.5,baixa
+P393,Maquiagem Iusto,2025-04-22,112,36,148,112,130.0,baixa
+P394,Shampoo Quaerat,2025-07-06,28,103,131,28,79.5,alta
+P395,Creme Hidratante Nihil,2025-05-01,26,8,34,26,30.0,baixa
+P396,Condicionador Blanditiis,2025-06-02,60,116,176,60,118.0,alta
+P397,Condicionador Placeat,2025-06-15,49,3,52,49,50.5,baixa
+P398,Sabonete Nulla,2025-07-18,6,24,30,6,18.0,alta
+P399,Óleo corporal Dignissimos,2025-04-06,52,6,58,52,55.0,baixa
+P400,Creme Hidratante Ex,2025-07-18,16,8,24,16,20.0,baixa
+P401,Creme Hidratante Officiis,2025-07-09,43,79,122,43,82.5,alta
+P402,Perfume Mollitia,2025-07-23,31,37,68,31,49.5,alta
+P403,Óleo corporal Ex,2025-06-30,17,48,65,17,41.0,alta
+P404,Condicionador Dolorum,2025-04-14,56,3,59,56,57.5,baixa
+P405,Sabonete Quasi,2025-06-22,106,3,109,106,107.5,baixa
+P406,Shampoo Quisquam,2025-06-10,41,5,46,41,43.5,baixa
+P407,Óleo corporal Reiciendis,2025-06-29,6,20,26,6,16.0,alta
+P408,Óleo corporal Illum,2025-07-04,10,81,91,10,50.5,alta
+P409,Condicionador Laudantium,2025-04-30,54,24,78,54,66.0,baixa
+P410,Maquiagem Dicta,2025-05-18,67,39,106,67,86.5,baixa
+P411,Shampoo Eveniet,2025-07-14,113,15,128,113,120.5,baixa
+P412,Condicionador Eligendi,2025-05-16,28,111,139,28,83.5,alta
+P413,Sabonete Quasi,2025-07-07,9,115,124,9,66.5,alta
+P414,Sabonete Odit,2025-04-06,121,38,159,121,140.0,baixa
+P415,Perfume Eligendi,2025-04-18,66,16,82,66,74.0,baixa
+P416,Maquiagem Porro,2025-06-30,37,159,196,37,116.5,alta
+P417,Creme Hidratante Maxime,2025-05-19,6,19,25,6,15.5,alta
+P418,Shampoo Iure,2025-05-30,146,0,146,146,146.0,baixa
+P419,Perfume Fugit,2025-06-25,112,86,198,112,155.0,alta
+P420,Maquiagem Numquam,2025-07-09,86,44,130,86,108.0,baixa
+P421,Sabonete Necessitatibus,2025-04-14,72,3,75,72,73.5,baixa
+P422,Perfume Quod,2025-06-14,59,64,123,59,91.0,alta
+P423,Sabonete Quas,2025-05-11,32,89,121,32,76.5,alta
+P424,Sabonete Ipsum,2025-07-27,114,71,185,114,149.5,baixa
+P425,Perfume Molestias,2025-05-28,11,171,182,11,96.5,alta
+P426,Sabonete Cupiditate,2025-07-19,5,22,27,5,16.0,alta
+P427,Óleo corporal Magni,2025-06-18,142,44,186,142,164.0,baixa
+P428,Perfume Iusto,2025-04-19,27,49,76,27,51.5,alta
+P429,Condicionador Autem,2025-05-09,33,59,92,33,62.5,alta
+P430,Condicionador Doloribus,2025-06-26,100,36,136,100,118.0,baixa
+P431,Condicionador Quidem,2025-04-01,0,20,20,0,10.0,alta
+P432,Condicionador Ipsa,2025-05-10,13,140,153,13,83.0,alta
+P433,Condicionador Id,2025-06-02,15,8,23,15,19.0,baixa
+P434,Maquiagem Harum,2025-05-19,24,69,93,24,58.5,alta
+P435,Creme Hidratante Consectetur,2025-05-26,29,64,93,29,61.0,alta
+P436,Sabonete Voluptatem,2025-04-10,94,3,97,94,95.5,baixa
+P437,Shampoo Voluptatem,2025-04-12,3,54,57,3,30.0,alta
+P438,Maquiagem Velit,2025-06-28,4,26,30,4,17.0,alta
+P439,Creme Hidratante Perferendis,2025-07-19,29,49,78,29,53.5,alta
+P440,Creme Hidratante Incidunt,2025-04-23,117,43,160,117,138.5,baixa
+P441,Shampoo Vel,2025-06-12,56,17,73,56,64.5,baixa
+P442,Condicionador Incidunt,2025-07-06,53,35,88,53,70.5,baixa
+P443,Condicionador Totam,2025-06-13,5,66,71,5,38.0,alta
+P444,Maquiagem Atque,2025-04-29,114,5,119,114,116.5,baixa
+P445,Condicionador Distinctio,2025-06-14,54,52,106,54,80.0,alta
+P446,Óleo corporal Excepturi,2025-04-05,46,55,101,46,73.5,alta
+P447,Sabonete Ea,2025-05-17,68,10,78,68,73.0,baixa
+P448,Sabonete Nihil,2025-04-13,5,18,23,5,14.0,alta
+P449,Óleo corporal Fuga,2025-06-17,13,12,25,13,19.0,alta
+P450,Creme Hidratante Pariatur,2025-05-05,77,118,195,77,136.0,alta
+P451,Perfume Quidem,2025-05-14,3,109,112,3,57.5,alta
+P452,Sabonete Eius,2025-07-04,3,30,33,3,18.0,alta
+P453,Maquiagem Vitae,2025-07-26,21,33,54,21,37.5,alta
+P454,Maquiagem Odit,2025-06-24,37,31,68,37,52.5,alta
+P455,Maquiagem Quae,2025-04-06,144,0,144,144,144.0,baixa
+P456,Óleo corporal Exercitationem,2025-05-28,6,160,166,6,86.0,alta
+P457,Maquiagem Fuga,2025-06-04,55,97,152,55,103.5,alta
+P458,Perfume Ipsum,2025-06-04,21,3,24,21,22.5,baixa
+P459,Shampoo Molestiae,2025-04-12,73,0,73,73,73.0,baixa
+P460,Shampoo Repellat,2025-04-23,46,151,197,46,121.5,alta
+P461,Maquiagem Eius,2025-07-17,17,69,86,17,51.5,alta
+P462,Shampoo Repellat,2025-04-29,16,116,132,16,74.0,alta
+P463,Shampoo Architecto,2025-07-03,21,14,35,21,28.0,baixa
+P464,Perfume Aliquam,2025-05-27,124,47,171,124,147.5,baixa
+P465,Shampoo Optio,2025-04-25,49,66,115,49,82.0,alta
+P466,Condicionador Expedita,2025-05-08,33,46,79,33,56.0,alta
+P467,Condicionador Ab,2025-07-27,76,5,81,76,78.5,baixa
+P468,Creme Hidratante Dolorem,2025-06-17,111,64,175,111,143.0,baixa
+P469,Perfume Dicta,2025-07-20,75,29,104,75,89.5,baixa
+P470,Sabonete Quod,2025-07-27,6,108,114,6,60.0,alta
+P471,Shampoo Amet,2025-05-19,84,2,86,84,85.0,baixa
+P472,Óleo corporal Asperiores,2025-07-06,16,113,129,16,72.5,alta
+P473,Condicionador Numquam,2025-07-10,15,7,22,15,18.5,baixa
+P474,Maquiagem Debitis,2025-05-08,18,77,95,18,56.5,alta
+P475,Maquiagem Praesentium,2025-07-29,21,78,99,21,60.0,alta
+P476,Maquiagem Dignissimos,2025-07-14,121,2,123,121,122.0,baixa
+P477,Creme Hidratante Animi,2025-05-28,94,101,195,94,144.5,alta
+P478,Maquiagem Magni,2025-07-15,93,10,103,93,98.0,baixa
+P479,Sabonete Magnam,2025-07-24,59,7,66,59,62.5,baixa
+P480,Perfume Amet,2025-06-27,64,106,170,64,117.0,alta
+P481,Sabonete Voluptate,2025-04-15,6,24,30,6,18.0,alta
+P482,Creme Hidratante Ut,2025-05-06,48,0,48,48,48.0,baixa
+P483,Shampoo Molestias,2025-07-12,127,3,130,127,128.5,baixa
+P484,Maquiagem Culpa,2025-07-26,36,114,150,36,93.0,alta
+P485,Creme Hidratante Impedit,2025-07-26,23,0,23,23,23.0,baixa
+P486,Creme Hidratante Non,2025-04-20,50,50,100,50,75.0,alta
+P487,Shampoo Expedita,2025-05-10,9,36,45,9,27.0,alta
+P488,Perfume Nulla,2025-05-14,31,22,53,31,42.0,alta
+P489,Perfume Omnis,2025-06-02,79,22,101,79,90.0,baixa
+P490,Maquiagem Reprehenderit,2025-05-03,43,90,133,43,88.0,alta
+P491,Perfume Dignissimos,2025-06-25,25,47,72,25,48.5,alta
+P492,Óleo corporal Suscipit,2025-05-23,45,126,171,45,108.0,alta
+P493,Creme Hidratante Id,2025-07-15,65,82,147,65,106.0,alta
+P494,Óleo corporal Cum,2025-05-21,58,38,96,58,77.0,baixa
+P495,Shampoo Tenetur,2025-07-24,164,25,189,164,176.5,baixa
+P496,Maquiagem Eius,2025-07-13,55,21,76,55,65.5,baixa
+P497,Perfume Quo,2025-04-24,126,17,143,126,134.5,baixa
+P498,Sabonete Et,2025-05-11,22,161,183,22,102.5,alta
+P499,Óleo corporal Fugit,2025-06-10,9,79,88,9,48.5,alta
+P500,Condicionador Laboriosam,2025-07-27,94,15,109,94,101.5,baixa
+P501,Sabonete Quidem,2025-05-31,59,79,138,59,98.5,alta
+P502,Óleo corporal Iure,2025-07-29,77,98,175,77,126.0,alta
+P503,Condicionador Quas,2025-07-24,11,33,44,11,27.5,alta
+P504,Shampoo Minus,2025-05-31,10,19,29,10,19.5,alta
+P505,Óleo corporal Perferendis,2025-06-13,63,0,63,63,63.0,baixa
+P506,Maquiagem Veritatis,2025-04-25,80,64,144,80,112.0,alta
+P507,Perfume Cumque,2025-04-18,12,9,21,12,16.5,alta
+P508,Óleo corporal Asperiores,2025-05-06,78,50,128,78,103.0,baixa
+P509,Creme Hidratante Illo,2025-07-13,37,135,172,37,104.5,alta
+P510,Maquiagem Aut,2025-07-28,58,16,74,58,66.0,baixa
+P511,Óleo corporal Beatae,2025-06-04,11,16,27,11,19.0,alta
+P512,Creme Hidratante Non,2025-05-08,10,54,64,10,37.0,alta
+P513,Condicionador Ab,2025-05-26,83,15,98,83,90.5,baixa
+P514,Perfume Fugit,2025-07-05,18,45,63,18,40.5,alta
+P515,Condicionador Excepturi,2025-06-10,4,165,169,4,86.5,alta
+P516,Creme Hidratante Quibusdam,2025-05-12,98,54,152,98,125.0,baixa
+P517,Óleo corporal Accusamus,2025-06-27,144,6,150,144,147.0,baixa
+P518,Óleo corporal Adipisci,2025-04-01,50,84,134,50,92.0,alta
+P519,Sabonete Vel,2025-07-18,116,55,171,116,143.5,baixa
+P520,Condicionador Distinctio,2025-05-03,186,4,190,186,188.0,baixa
+P521,Creme Hidratante Assumenda,2025-06-11,115,76,191,115,153.0,baixa
+P522,Óleo corporal Delectus,2025-05-14,41,2,43,41,42.0,baixa
+P523,Maquiagem Delectus,2025-04-30,136,2,138,136,137.0,baixa
+P524,Sabonete Assumenda,2025-04-18,52,19,71,52,61.5,baixa
+P525,Creme Hidratante Explicabo,2025-04-27,89,63,152,89,120.5,alta
+P526,Óleo corporal Voluptatum,2025-04-26,55,107,162,55,108.5,alta
+P527,Maquiagem Molestiae,2025-06-21,13,147,160,13,86.5,alta
+P528,Shampoo Quas,2025-05-29,7,13,20,7,13.5,alta
+P529,Maquiagem Quasi,2025-07-01,13,54,67,13,40.0,alta
+P530,Maquiagem Ratione,2025-07-21,54,28,82,54,68.0,baixa
+P531,Sabonete Fuga,2025-06-06,14,16,30,14,22.0,alta
+P532,Sabonete Molestias,2025-05-18,109,88,197,109,153.0,alta
+P533,Condicionador Sit,2025-07-26,56,2,58,56,57.0,baixa
+P534,Maquiagem Voluptatem,2025-06-29,25,49,74,25,49.5,alta
+P535,Perfume Sapiente,2025-04-27,68,33,101,68,84.5,baixa
+P536,Maquiagem Architecto,2025-04-20,13,24,37,13,25.0,alta
+P537,Creme Hidratante Reprehenderit,2025-07-28,18,8,26,18,22.0,baixa
+P538,Condicionador At,2025-05-23,31,117,148,31,89.5,alta
+P539,Óleo corporal Cumque,2025-04-20,58,87,145,58,101.5,alta
+P540,Condicionador Dolore,2025-07-12,128,35,163,128,145.5,baixa
+P541,Condicionador Nisi,2025-07-21,71,128,199,71,135.0,alta
+P542,Maquiagem Deserunt,2025-06-11,23,5,28,23,25.5,baixa
+P543,Sabonete Qui,2025-07-06,116,39,155,116,135.5,baixa
+P544,Sabonete Doloribus,2025-06-13,161,14,175,161,168.0,baixa
+P545,Condicionador Nam,2025-04-25,102,15,117,102,109.5,baixa
+P546,Sabonete Harum,2025-05-14,34,1,35,34,34.5,baixa
+P547,Perfume Perferendis,2025-05-13,36,149,185,36,110.5,alta
+P548,Shampoo Nesciunt,2025-05-09,16,134,150,16,83.0,alta
+P549,Maquiagem Commodi,2025-04-13,78,13,91,78,84.5,baixa
+P550,Creme Hidratante Doloribus,2025-05-17,57,135,192,57,124.5,alta
+P551,Creme Hidratante Id,2025-05-05,40,94,134,40,87.0,alta
+P552,Creme Hidratante Consequatur,2025-06-22,76,71,147,76,111.5,alta
+P553,Sabonete Ea,2025-05-29,68,72,140,68,104.0,alta
+P554,Creme Hidratante Id,2025-06-28,67,62,129,67,98.0,alta
+P555,Óleo corporal Accusamus,2025-07-16,1,79,80,1,40.5,alta
+P556,Creme Hidratante Incidunt,2025-04-15,67,18,85,67,76.0,baixa
+P557,Perfume Eaque,2025-04-04,49,60,109,49,79.0,alta
+P558,Sabonete Autem,2025-05-09,3,31,34,3,18.5,alta
+P559,Maquiagem Amet,2025-05-25,35,2,37,35,36.0,baixa
+P560,Shampoo Velit,2025-05-23,78,4,82,78,80.0,baixa
+P561,Perfume Odio,2025-04-19,59,18,77,59,68.0,baixa
+P562,Creme Hidratante Aspernatur,2025-07-17,7,44,51,7,29.0,alta
+P563,Óleo corporal Exercitationem,2025-06-22,88,5,93,88,90.5,baixa
+P564,Sabonete Quibusdam,2025-06-10,10,163,173,10,91.5,alta
+P565,Creme Hidratante Sapiente,2025-05-29,99,101,200,99,149.5,alta
+P566,Óleo corporal Quod,2025-07-28,48,101,149,48,98.5,alta
+P567,Maquiagem Laudantium,2025-07-29,56,89,145,56,100.5,alta
+P568,Sabonete Odio,2025-05-25,20,157,177,20,98.5,alta
+P569,Condicionador Deleniti,2025-04-09,91,35,126,91,108.5,baixa
+P570,Condicionador Nostrum,2025-04-02,1,76,77,1,39.0,alta
+P571,Condicionador Ex,2025-06-06,22,78,100,22,61.0,alta
+P572,Condicionador Accusantium,2025-04-21,5,65,70,5,37.5,alta
+P573,Condicionador Cupiditate,2025-04-09,2,71,73,2,37.5,alta
+P574,Maquiagem Quisquam,2025-06-30,80,116,196,80,138.0,alta
+P575,Maquiagem Sequi,2025-07-03,129,52,181,129,155.0,baixa
+P576,Perfume Aperiam,2025-06-12,29,8,37,29,33.0,baixa
+P577,Shampoo Dolorum,2025-05-05,35,1,36,35,35.5,baixa
+P578,Óleo corporal Natus,2025-04-15,38,116,154,38,96.0,alta
+P579,Creme Hidratante Placeat,2025-07-28,13,51,64,13,38.5,alta
+P580,Creme Hidratante Dolore,2025-05-18,22,30,52,22,37.0,alta
+P581,Sabonete Corrupti,2025-05-15,28,34,62,28,45.0,alta
+P582,Creme Hidratante Suscipit,2025-06-04,13,139,152,13,82.5,alta
+P583,Óleo corporal Dolores,2025-05-18,5,50,55,5,30.0,alta
+P584,Maquiagem Reiciendis,2025-06-29,2,113,115,2,58.5,alta
+P585,Óleo corporal Quos,2025-07-06,20,2,22,20,21.0,baixa
+P586,Perfume Necessitatibus,2025-07-06,16,7,23,16,19.5,baixa
+P587,Shampoo Sed,2025-07-07,18,14,32,18,25.0,alta
+P588,Shampoo Praesentium,2025-07-10,36,90,126,36,81.0,alta
+P589,Óleo corporal Quis,2025-05-10,88,32,120,88,104.0,baixa
+P590,Creme Hidratante Distinctio,2025-05-23,153,8,161,153,157.0,baixa
+P591,Sabonete Laudantium,2025-04-11,0,22,22,0,11.0,alta
+P592,Condicionador Magni,2025-06-27,47,69,116,47,81.5,alta
+P593,Óleo corporal Cupiditate,2025-07-23,56,93,149,56,102.5,alta
+P594,Sabonete Harum,2025-07-09,50,54,104,50,77.0,alta
+P595,Shampoo Neque,2025-05-15,8,42,50,8,29.0,alta
+P596,Óleo corporal Excepturi,2025-06-01,5,65,70,5,37.5,alta
+P597,Maquiagem Mollitia,2025-06-11,15,155,170,15,92.5,alta
+P598,Creme Hidratante Expedita,2025-07-22,53,48,101,53,77.0,alta
+P599,Sabonete Fugiat,2025-04-15,17,54,71,17,44.0,alta
+P600,Condicionador Ex,2025-04-28,63,4,67,63,65.0,baixa
+P601,Shampoo Nostrum,2025-07-12,85,104,189,85,137.0,alta
+P602,Creme Hidratante Possimus,2025-04-19,41,31,72,41,56.5,alta
+P603,Óleo corporal Excepturi,2025-06-25,30,40,70,30,50.0,alta
+P604,Condicionador Dicta,2025-06-17,7,71,78,7,42.5,alta
+P605,Shampoo Architecto,2025-05-10,151,12,163,151,157.0,baixa
+P606,Maquiagem Rem,2025-07-20,55,69,124,55,89.5,alta
+P607,Condicionador Unde,2025-05-19,21,135,156,21,88.5,alta
+P608,Perfume Earum,2025-07-28,158,16,174,158,166.0,baixa
+P609,Condicionador Vero,2025-06-29,50,24,74,50,62.0,baixa
+P610,Creme Hidratante Ducimus,2025-07-04,83,7,90,83,86.5,baixa
+P611,Creme Hidratante Porro,2025-05-31,98,57,155,98,126.5,baixa
+P612,Creme Hidratante Ullam,2025-05-18,96,16,112,96,104.0,baixa
+P613,Shampoo Quo,2025-04-22,70,9,79,70,74.5,baixa
+P614,Sabonete Aspernatur,2025-05-30,39,148,187,39,113.0,alta
+P615,Condicionador Illo,2025-06-10,44,65,109,44,76.5,alta
+P616,Condicionador Tenetur,2025-05-09,130,46,176,130,153.0,baixa
+P617,Óleo corporal Eum,2025-05-06,54,130,184,54,119.0,alta
+P618,Condicionador Est,2025-07-01,45,29,74,45,59.5,baixa
+P619,Creme Hidratante Asperiores,2025-05-15,19,35,54,19,36.5,alta
+P620,Shampoo Quis,2025-07-21,69,68,137,69,103.0,alta
+P621,Sabonete Numquam,2025-06-23,68,25,93,68,80.5,baixa
+P622,Sabonete Eos,2025-05-07,114,12,126,114,120.0,baixa
+P623,Condicionador Numquam,2025-07-16,10,136,146,10,78.0,alta
+P624,Perfume Praesentium,2025-05-31,4,22,26,4,15.0,alta
+P625,Sabonete Laborum,2025-04-06,6,23,29,6,17.5,alta
+P626,Condicionador Ea,2025-06-18,61,4,65,61,63.0,baixa
+P627,Perfume Pariatur,2025-07-20,6,58,64,6,35.0,alta
+P628,Creme Hidratante Sunt,2025-07-25,16,4,20,16,18.0,baixa
+P629,Condicionador Ullam,2025-05-14,37,32,69,37,53.0,alta
+P630,Shampoo Distinctio,2025-07-18,154,11,165,154,159.5,baixa
+P631,Sabonete Saepe,2025-05-11,64,94,158,64,111.0,alta
+P632,Perfume Nisi,2025-05-26,145,31,176,145,160.5,baixa
+P633,Óleo corporal Repudiandae,2025-05-30,82,7,89,82,85.5,baixa
+P634,Creme Hidratante Provident,2025-05-30,53,59,112,53,82.5,alta
+P635,Perfume Officia,2025-07-16,39,136,175,39,107.0,alta
+P636,Shampoo At,2025-06-06,40,158,198,40,119.0,alta
+P637,Sabonete Necessitatibus,2025-04-08,38,20,58,38,48.0,baixa
+P638,Shampoo Corporis,2025-07-20,68,3,71,68,69.5,baixa
+P639,Condicionador Suscipit,2025-04-07,150,8,158,150,154.0,baixa
+P640,Óleo corporal Incidunt,2025-07-01,0,31,31,0,15.5,alta
+P641,Perfume Veniam,2025-07-06,40,65,105,40,72.5,alta
+P642,Condicionador Velit,2025-06-24,41,21,62,41,51.5,baixa
+P643,Maquiagem Molestiae,2025-05-25,35,96,131,35,83.0,alta
+P644,Sabonete Tempora,2025-07-10,29,92,121,29,75.0,alta
+P645,Óleo corporal Quasi,2025-05-16,20,120,140,20,80.0,alta
+P646,Creme Hidratante Aut,2025-04-25,7,54,61,7,34.0,alta
+P647,Perfume Nam,2025-07-10,92,19,111,92,101.5,baixa
+P648,Perfume Blanditiis,2025-04-07,9,62,71,9,40.0,alta
+P649,Shampoo Architecto,2025-07-12,118,18,136,118,127.0,baixa
+P650,Perfume Repellendus,2025-05-10,19,167,186,19,102.5,alta
+P651,Sabonete Nobis,2025-04-03,2,128,130,2,66.0,alta
+P652,Sabonete Voluptatum,2025-07-25,176,5,181,176,178.5,baixa
+P653,Shampoo Consequuntur,2025-07-03,14,20,34,14,24.0,alta
+P654,Perfume Odio,2025-04-26,94,35,129,94,111.5,baixa
+P655,Condicionador Earum,2025-05-14,98,70,168,98,133.0,alta
+P656,Maquiagem Quisquam,2025-07-04,60,69,129,60,94.5,alta
+P657,Óleo corporal Assumenda,2025-06-01,81,19,100,81,90.5,baixa
+P658,Creme Hidratante Voluptatibus,2025-04-24,84,114,198,84,141.0,alta
+P659,Sabonete Eveniet,2025-05-26,74,0,74,74,74.0,baixa
+P660,Creme Hidratante Iure,2025-05-09,6,74,80,6,43.0,alta
+P661,Maquiagem Sequi,2025-06-19,15,56,71,15,43.0,alta
+P662,Creme Hidratante Nesciunt,2025-04-12,22,168,190,22,106.0,alta
+P663,Shampoo Repudiandae,2025-06-18,44,46,90,44,67.0,alta
+P664,Creme Hidratante Tenetur,2025-05-19,0,52,52,0,26.0,alta
+P665,Perfume Voluptatibus,2025-07-06,44,64,108,44,76.0,alta
+P666,Óleo corporal Excepturi,2025-06-10,33,1,34,33,33.5,baixa
+P667,Creme Hidratante Voluptate,2025-04-05,78,2,80,78,79.0,baixa
+P668,Shampoo Atque,2025-04-18,65,74,139,65,102.0,alta
+P669,Sabonete Aliquid,2025-06-28,117,7,124,117,120.5,baixa
+P670,Sabonete Saepe,2025-04-13,32,96,128,32,80.0,alta
+P671,Óleo corporal Pariatur,2025-06-02,2,60,62,2,32.0,alta
+P672,Shampoo Dolorem,2025-07-14,16,69,85,16,50.5,alta
+P673,Sabonete Nihil,2025-06-25,6,40,46,6,26.0,alta
+P674,Perfume Nisi,2025-07-13,14,87,101,14,57.5,alta
+P675,Óleo corporal Error,2025-06-27,178,19,197,178,187.5,baixa
+P676,Maquiagem Saepe,2025-07-11,153,24,177,153,165.0,baixa
+P677,Condicionador Nesciunt,2025-04-25,36,97,133,36,84.5,alta
+P678,Creme Hidratante Nihil,2025-06-07,68,23,91,68,79.5,baixa
+P679,Maquiagem Fuga,2025-07-22,104,46,150,104,127.0,baixa
+P680,Creme Hidratante Error,2025-06-22,38,2,40,38,39.0,baixa
+P681,Óleo corporal Nesciunt,2025-06-06,61,65,126,61,93.5,alta
+P682,Shampoo Nisi,2025-07-08,5,50,55,5,30.0,alta
+P683,Maquiagem Nemo,2025-04-16,136,19,155,136,145.5,baixa
+P684,Maquiagem Ea,2025-07-01,23,101,124,23,73.5,alta
+P685,Óleo corporal Exercitationem,2025-05-29,61,17,78,61,69.5,baixa
+P686,Maquiagem Ullam,2025-07-09,14,11,25,14,19.5,alta
+P687,Maquiagem Esse,2025-04-16,100,26,126,100,113.0,baixa
+P688,Creme Hidratante Optio,2025-06-10,2,90,92,2,47.0,alta
+P689,Shampoo Perferendis,2025-06-02,33,19,52,33,42.5,baixa
+P690,Óleo corporal Repudiandae,2025-07-20,82,29,111,82,96.5,baixa
+P691,Perfume Fugiat,2025-06-04,68,42,110,68,89.0,baixa
+P692,Sabonete Cumque,2025-07-26,4,20,24,4,14.0,alta
+P693,Perfume Et,2025-07-20,51,46,97,51,74.0,alta
+P694,Óleo corporal Veritatis,2025-04-22,8,39,47,8,27.5,alta
+P695,Perfume Tempora,2025-04-25,76,107,183,76,129.5,alta
+P696,Creme Hidratante Praesentium,2025-06-18,58,90,148,58,103.0,alta
+P697,Maquiagem Sint,2025-05-18,34,38,72,34,53.0,alta
+P698,Shampoo Distinctio,2025-05-20,7,38,45,7,26.0,alta
+P699,Condicionador Vel,2025-06-18,142,41,183,142,162.5,baixa
+P700,Sabonete Exercitationem,2025-04-19,46,33,79,46,62.5,alta
+P701,Maquiagem Ratione,2025-07-28,2,80,82,2,42.0,alta
+P702,Perfume Sunt,2025-06-12,10,23,33,10,21.5,alta
+P703,Creme Hidratante Sit,2025-07-29,36,153,189,36,112.5,alta
+P704,Shampoo Quibusdam,2025-06-04,30,21,51,30,40.5,alta
+P705,Maquiagem Animi,2025-06-26,6,171,177,6,91.5,alta
+P706,Shampoo Officiis,2025-04-19,54,0,54,54,54.0,baixa
+P707,Perfume Expedita,2025-07-09,27,95,122,27,74.5,alta
+P708,Perfume Repellat,2025-06-24,57,56,113,57,85.0,alta
+P709,Óleo corporal Doloremque,2025-05-24,34,87,121,34,77.5,alta
+P710,Condicionador Eum,2025-04-06,9,139,148,9,78.5,alta
+P711,Creme Hidratante Ea,2025-05-31,43,33,76,43,59.5,alta
+P712,Sabonete Amet,2025-04-23,34,41,75,34,54.5,alta
+P713,Creme Hidratante Voluptatibus,2025-04-12,19,128,147,19,83.0,alta
+P714,Perfume Libero,2025-04-06,142,31,173,142,157.5,baixa
+P715,Condicionador Occaecati,2025-06-07,40,69,109,40,74.5,alta
+P716,Maquiagem Explicabo,2025-05-06,16,10,26,16,21.0,baixa
+P717,Sabonete Molestias,2025-04-08,150,5,155,150,152.5,baixa
+P718,Sabonete Accusamus,2025-07-25,48,39,87,48,67.5,alta
+P719,Óleo corporal Nostrum,2025-07-03,30,65,95,30,62.5,alta
+P720,Creme Hidratante Ratione,2025-06-05,147,42,189,147,168.0,baixa
+P721,Creme Hidratante Dicta,2025-06-23,31,103,134,31,82.5,alta
+P722,Condicionador Beatae,2025-06-02,11,67,78,11,44.5,alta
+P723,Shampoo Vel,2025-05-29,152,15,167,152,159.5,baixa
+P724,Condicionador Quam,2025-06-23,20,12,32,20,26.0,baixa
+P725,Shampoo Ipsum,2025-04-15,27,170,197,27,112.0,alta
+P726,Óleo corporal Laborum,2025-06-08,22,55,77,22,49.5,alta
+P727,Condicionador At,2025-04-17,125,19,144,125,134.5,baixa
+P728,Shampoo In,2025-07-04,6,34,40,6,23.0,alta
+P729,Condicionador Expedita,2025-06-20,19,11,30,19,24.5,baixa
+P730,Óleo corporal Dicta,2025-07-11,86,1,87,86,86.5,baixa
+P731,Sabonete Quidem,2025-06-13,18,76,94,18,56.0,alta
+P732,Condicionador Illo,2025-05-15,52,16,68,52,60.0,baixa
+P733,Maquiagem Illo,2025-06-28,44,154,198,44,121.0,alta
+P734,Óleo corporal Eveniet,2025-06-30,13,41,54,13,33.5,alta
+P735,Shampoo Eius,2025-05-21,45,109,154,45,99.5,alta
+P736,Creme Hidratante Iusto,2025-05-18,88,26,114,88,101.0,baixa
+P737,Creme Hidratante Quia,2025-07-15,160,6,166,160,163.0,baixa
+P738,Maquiagem Voluptatem,2025-07-06,12,57,69,12,40.5,alta
+P739,Sabonete Reiciendis,2025-04-30,84,28,112,84,98.0,baixa
+P740,Condicionador Ad,2025-04-16,68,63,131,68,99.5,alta
+P741,Perfume Minus,2025-07-05,52,102,154,52,103.0,alta
+P742,Condicionador Explicabo,2025-04-28,13,60,73,13,43.0,alta
+P743,Maquiagem Natus,2025-04-24,4,140,144,4,74.0,alta
+P744,Creme Hidratante Porro,2025-07-07,15,152,167,15,91.0,alta
+P745,Condicionador Facilis,2025-07-04,160,13,173,160,166.5,baixa
+P746,Óleo corporal Laboriosam,2025-05-16,83,108,191,83,137.0,alta
+P747,Maquiagem Enim,2025-06-10,55,50,105,55,80.0,alta
+P748,Creme Hidratante Maiores,2025-05-31,159,37,196,159,177.5,baixa
+P749,Maquiagem Iste,2025-07-24,10,23,33,10,21.5,alta
+P750,Maquiagem Laudantium,2025-05-19,52,48,100,52,76.0,alta
+P751,Condicionador Quod,2025-05-17,38,34,72,38,55.0,alta
+P752,Sabonete Odio,2025-04-12,97,23,120,97,108.5,baixa
+P753,Shampoo Aut,2025-05-24,67,21,88,67,77.5,baixa
+P754,Perfume Assumenda,2025-06-13,21,0,21,21,21.0,baixa
+P755,Maquiagem Aspernatur,2025-07-20,74,51,125,74,99.5,alta
+P756,Sabonete Nemo,2025-04-16,25,12,37,25,31.0,baixa
+P757,Condicionador Minima,2025-05-07,0,51,51,0,25.5,alta
+P758,Condicionador Voluptate,2025-05-03,47,33,80,47,63.5,alta
+P759,Sabonete Repudiandae,2025-06-15,24,32,56,24,40.0,alta
+P760,Óleo corporal Voluptatibus,2025-06-26,16,70,86,16,51.0,alta
+P761,Perfume Quibusdam,2025-06-15,52,33,85,52,68.5,baixa
+P762,Sabonete Alias,2025-05-31,179,5,184,179,181.5,baixa
+P763,Maquiagem Officiis,2025-07-18,42,12,54,42,48.0,baixa
+P764,Condicionador Nisi,2025-05-20,47,19,66,47,56.5,baixa
+P765,Perfume Perspiciatis,2025-05-12,127,10,137,127,132.0,baixa
+P766,Sabonete Quos,2025-04-28,32,27,59,32,45.5,alta
+P767,Condicionador Alias,2025-05-19,16,127,143,16,79.5,alta
+P768,Sabonete Possimus,2025-07-02,114,2,116,114,115.0,baixa
+P769,Shampoo Eaque,2025-05-20,4,172,176,4,90.0,alta
+P770,Óleo corporal Quaerat,2025-05-19,161,33,194,161,177.5,baixa
+P771,Maquiagem Veniam,2025-07-19,190,2,192,190,191.0,baixa
+P772,Creme Hidratante Similique,2025-06-12,81,66,147,81,114.0,alta
+P773,Sabonete Temporibus,2025-06-06,87,59,146,87,116.5,alta
+P774,Condicionador Ducimus,2025-06-17,25,42,67,25,46.0,alta
+P775,Perfume Labore,2025-04-18,115,21,136,115,125.5,baixa
+P776,Condicionador Neque,2025-05-16,63,27,90,63,76.5,baixa
+P777,Óleo corporal Corporis,2025-07-23,111,71,182,111,146.5,baixa
+P778,Creme Hidratante Officiis,2025-05-05,12,71,83,12,47.5,alta
+P779,Sabonete Rerum,2025-06-11,43,157,200,43,121.5,alta
+P780,Óleo corporal Fugiat,2025-04-30,25,3,28,25,26.5,baixa
+P781,Shampoo Vitae,2025-05-22,61,7,68,61,64.5,baixa
+P782,Óleo corporal Explicabo,2025-05-24,29,132,161,29,95.0,alta
+P783,Condicionador Adipisci,2025-06-20,72,109,181,72,126.5,alta
+P784,Maquiagem Porro,2025-06-14,12,14,26,12,19.0,alta
+P785,Maquiagem Officia,2025-04-03,52,57,109,52,80.5,alta
+P786,Maquiagem Accusamus,2025-06-19,66,72,138,66,102.0,alta
+P787,Perfume Et,2025-07-28,144,11,155,144,149.5,baixa
+P788,Óleo corporal Quidem,2025-06-27,109,4,113,109,111.0,baixa
+P789,Óleo corporal Repellat,2025-06-05,26,32,58,26,42.0,alta
+P790,Perfume Voluptas,2025-06-12,54,105,159,54,106.5,alta
+P791,Perfume Dolores,2025-04-13,0,21,21,0,10.5,alta
+P792,Óleo corporal Ratione,2025-07-27,134,63,197,134,165.5,baixa
+P793,Maquiagem Corporis,2025-04-01,22,36,58,22,40.0,alta
+P794,Shampoo Suscipit,2025-05-24,17,30,47,17,32.0,alta
+P795,Condicionador Voluptatum,2025-04-16,61,46,107,61,84.0,alta
+P796,Sabonete Sed,2025-04-08,11,12,23,11,17.0,alta
+P797,Shampoo Harum,2025-05-14,19,70,89,19,54.0,alta
+P798,Óleo corporal Enim,2025-06-15,129,14,143,129,136.0,baixa
+P799,Shampoo Doloremque,2025-05-12,76,79,155,76,115.5,alta
+P800,Sabonete Repudiandae,2025-07-18,7,136,143,7,75.0,alta
+P801,Perfume Veniam,2025-05-22,30,23,53,30,41.5,alta
+P802,Perfume Placeat,2025-05-12,66,134,200,66,133.0,alta
+P803,Sabonete Autem,2025-04-14,28,1,29,28,28.5,baixa
+P804,Creme Hidratante Hic,2025-06-23,11,50,61,11,36.0,alta
+P805,Maquiagem Consectetur,2025-05-27,106,41,147,106,126.5,baixa
+P806,Óleo corporal Earum,2025-06-21,5,19,24,5,14.5,alta
+P807,Condicionador Placeat,2025-05-20,17,52,69,17,43.0,alta
+P808,Sabonete Ex,2025-05-24,8,32,40,8,24.0,alta
+P809,Condicionador Sequi,2025-07-16,31,6,37,31,34.0,baixa
+P810,Óleo corporal Maiores,2025-05-08,71,4,75,71,73.0,baixa
+P811,Maquiagem Dolores,2025-06-27,95,6,101,95,98.0,baixa
+P812,Perfume Praesentium,2025-07-21,122,34,156,122,139.0,baixa
+P813,Perfume Ratione,2025-06-23,45,40,85,45,65.0,alta
+P814,Condicionador Minima,2025-05-23,94,16,110,94,102.0,baixa
+P815,Sabonete Nesciunt,2025-06-07,85,56,141,85,113.0,baixa
+P816,Perfume Odio,2025-06-06,31,10,41,31,36.0,baixa
+P817,Sabonete Consectetur,2025-05-03,21,147,168,21,94.5,alta
+P818,Maquiagem Unde,2025-06-02,17,127,144,17,80.5,alta
+P819,Maquiagem Et,2025-05-18,142,2,144,142,143.0,baixa
+P820,Maquiagem Soluta,2025-05-10,64,62,126,64,95.0,alta
+P821,Condicionador Tempore,2025-04-13,24,89,113,24,68.5,alta
+P822,Óleo corporal Maxime,2025-06-20,7,24,31,7,19.0,alta
+P823,Maquiagem Ducimus,2025-04-09,6,22,28,6,17.0,alta
+P824,Condicionador Est,2025-04-16,12,48,60,12,36.0,alta
+P825,Óleo corporal Possimus,2025-04-30,3,86,89,3,46.0,alta
+P826,Perfume Ipsam,2025-07-23,74,19,93,74,83.5,baixa
+P827,Condicionador Ex,2025-04-21,22,55,77,22,49.5,alta
+P828,Maquiagem Illo,2025-06-19,5,53,58,5,31.5,alta
+P829,Shampoo Tempore,2025-07-23,48,38,86,48,67.0,alta
+P830,Óleo corporal Ex,2025-05-28,9,36,45,9,27.0,alta
+P831,Sabonete Libero,2025-04-03,73,37,110,73,91.5,baixa
+P832,Óleo corporal Nemo,2025-06-01,25,26,51,25,38.0,alta
+P833,Perfume Error,2025-04-07,19,51,70,19,44.5,alta
+P834,Creme Hidratante Exercitationem,2025-06-20,9,58,67,9,38.0,alta
+P835,Maquiagem Dolorum,2025-07-02,9,25,34,9,21.5,alta
+P836,Maquiagem Quibusdam,2025-04-26,24,15,39,24,31.5,baixa
+P837,Creme Hidratante Exercitationem,2025-07-13,24,37,61,24,42.5,alta
+P838,Condicionador Possimus,2025-07-12,16,5,21,16,18.5,baixa
+P839,Shampoo Tempora,2025-05-23,42,121,163,42,102.5,alta
+P840,Condicionador Quasi,2025-07-27,42,29,71,42,56.5,alta
+P841,Óleo corporal Sapiente,2025-05-11,139,47,186,139,162.5,baixa
+P842,Sabonete Nihil,2025-05-17,1,137,138,1,69.5,alta
+P843,Óleo corporal Optio,2025-04-26,115,48,163,115,139.0,baixa
+P844,Condicionador Vero,2025-04-11,8,67,75,8,41.5,alta
+P845,Creme Hidratante Quaerat,2025-07-26,1,84,85,1,43.0,alta
+P846,Creme Hidratante Iure,2025-04-27,35,43,78,35,56.5,alta
+P847,Maquiagem Amet,2025-07-01,105,67,172,105,138.5,baixa
+P848,Condicionador Optio,2025-04-14,13,145,158,13,85.5,alta
+P849,Shampoo Nisi,2025-04-14,133,24,157,133,145.0,baixa
+P850,Creme Hidratante Reiciendis,2025-04-26,41,119,160,41,100.5,alta
+P851,Condicionador Magnam,2025-07-19,56,22,78,56,67.0,baixa
+P852,Maquiagem Ab,2025-06-11,28,11,39,28,33.5,baixa
+P853,Creme Hidratante Repellat,2025-06-03,8,69,77,8,42.5,alta
+P854,Shampoo Dolor,2025-05-29,75,52,127,75,101.0,alta
+P855,Óleo corporal Molestias,2025-06-06,85,85,170,85,127.5,alta
+P856,Maquiagem Sequi,2025-05-06,5,184,189,5,97.0,alta
+P857,Creme Hidratante Praesentium,2025-06-20,3,36,39,3,21.0,alta
+P858,Perfume Aperiam,2025-05-08,53,126,179,53,116.0,alta
+P859,Creme Hidratante Aliquid,2025-07-14,13,8,21,13,17.0,baixa
+P860,Perfume Recusandae,2025-04-16,9,30,39,9,24.0,alta
+P861,Shampoo Nesciunt,2025-04-20,55,17,72,55,63.5,baixa
+P862,Perfume Id,2025-07-08,52,7,59,52,55.5,baixa
+P863,Condicionador Consequuntur,2025-06-30,127,60,187,127,157.0,baixa
+P864,Condicionador Nihil,2025-06-17,98,33,131,98,114.5,baixa
+P865,Óleo corporal Nulla,2025-07-05,24,58,82,24,53.0,alta
+P866,Shampoo Optio,2025-04-19,38,4,42,38,40.0,baixa
+P867,Perfume Provident,2025-07-06,109,8,117,109,113.0,baixa
+P868,Óleo corporal Corrupti,2025-05-13,85,37,122,85,103.5,baixa
+P869,Shampoo Hic,2025-04-13,92,72,164,92,128.0,alta
+P870,Shampoo Eligendi,2025-06-24,8,30,38,8,23.0,alta
+P871,Shampoo Illo,2025-04-02,2,20,22,2,12.0,alta
+P872,Óleo corporal A,2025-06-24,21,178,199,21,110.0,alta
+P873,Maquiagem Dolorum,2025-06-24,57,121,178,57,117.5,alta
+P874,Óleo corporal Nulla,2025-06-03,166,23,189,166,177.5,baixa
+P875,Shampoo Numquam,2025-06-21,97,82,179,97,138.0,alta
+P876,Óleo corporal Libero,2025-04-23,54,7,61,54,57.5,baixa
+P877,Shampoo In,2025-07-15,15,39,54,15,34.5,alta
+P878,Perfume Ratione,2025-05-27,35,116,151,35,93.0,alta
+P879,Creme Hidratante Eius,2025-06-22,27,42,69,27,48.0,alta
+P880,Condicionador Aspernatur,2025-06-05,45,13,58,45,51.5,baixa
+P881,Condicionador Facere,2025-04-17,24,4,28,24,26.0,baixa
+P882,Óleo corporal Laborum,2025-06-14,107,20,127,107,117.0,baixa
+P883,Shampoo Dolores,2025-06-04,1,76,77,1,39.0,alta
+P884,Shampoo In,2025-04-26,50,68,118,50,84.0,alta
+P885,Óleo corporal Quod,2025-07-29,120,35,155,120,137.5,baixa
+P886,Shampoo Mollitia,2025-05-21,9,22,31,9,20.0,alta
+P887,Maquiagem Assumenda,2025-04-18,46,30,76,46,61.0,baixa
+P888,Óleo corporal Deserunt,2025-04-07,4,157,161,4,82.5,alta
+P889,Perfume Repellendus,2025-06-01,66,21,87,66,76.5,baixa
+P890,Óleo corporal Numquam,2025-04-21,57,24,81,57,69.0,baixa
+P891,Óleo corporal Maxime,2025-07-15,0,97,97,0,48.5,alta
+P892,Óleo corporal Accusantium,2025-04-04,15,61,76,15,45.5,alta
+P893,Shampoo Repellendus,2025-06-10,15,98,113,15,64.0,alta
+P894,Shampoo Excepturi,2025-05-23,14,6,20,14,17.0,baixa
+P895,Shampoo Sit,2025-06-20,171,13,184,171,177.5,baixa
+P896,Shampoo Occaecati,2025-07-13,26,54,80,26,53.0,alta
+P897,Óleo corporal Expedita,2025-04-15,1,51,52,1,26.5,alta
+P898,Óleo corporal Recusandae,2025-07-29,30,48,78,30,54.0,alta
+P899,Maquiagem Nostrum,2025-06-12,131,65,196,131,163.5,baixa
+P900,Creme Hidratante Fuga,2025-04-24,30,16,46,30,38.0,baixa
+P901,Sabonete Sequi,2025-07-17,96,28,124,96,110.0,baixa
+P902,Sabonete Esse,2025-07-09,84,116,200,84,142.0,alta
+P903,Perfume Occaecati,2025-07-24,35,24,59,35,47.0,alta
+P904,Óleo corporal Cum,2025-05-08,27,43,70,27,48.5,alta
+P905,Óleo corporal Dolorum,2025-05-23,54,117,171,54,112.5,alta
+P906,Maquiagem Odit,2025-07-23,24,20,44,24,34.0,alta
+P907,Condicionador Sint,2025-07-08,60,20,80,60,70.0,baixa
+P908,Shampoo Neque,2025-05-03,76,114,190,76,133.0,alta
+P909,Maquiagem Quasi,2025-07-13,61,66,127,61,94.0,alta
+P910,Maquiagem Delectus,2025-04-29,95,96,191,95,143.0,alta
+P911,Óleo corporal Repellendus,2025-05-28,40,110,150,40,95.0,alta
+P912,Shampoo Aliquid,2025-06-01,16,13,29,16,22.5,alta
+P913,Óleo corporal Aliquid,2025-05-31,85,9,94,85,89.5,baixa
+P914,Perfume Animi,2025-06-01,21,47,68,21,44.5,alta
+P915,Condicionador Explicabo,2025-06-15,11,142,153,11,82.0,alta
+P916,Perfume Dolorum,2025-05-31,36,61,97,36,66.5,alta
+P917,Maquiagem Nam,2025-07-25,117,42,159,117,138.0,baixa
+P918,Shampoo Tenetur,2025-05-17,50,20,70,50,60.0,baixa
+P919,Shampoo Laboriosam,2025-04-11,51,61,112,51,81.5,alta
+P920,Sabonete Sapiente,2025-04-20,97,36,133,97,115.0,baixa
+P921,Perfume Necessitatibus,2025-07-14,19,111,130,19,74.5,alta
+P922,Óleo corporal Blanditiis,2025-04-08,17,6,23,17,20.0,baixa
+P923,Óleo corporal Sint,2025-07-29,0,182,182,0,91.0,alta
+P924,Sabonete Odio,2025-04-29,4,21,25,4,14.5,alta
+P925,Shampoo Saepe,2025-07-10,91,23,114,91,102.5,baixa
+P926,Maquiagem Totam,2025-04-05,138,54,192,138,165.0,baixa
+P927,Perfume Reprehenderit,2025-05-06,12,35,47,12,29.5,alta
+P928,Condicionador Totam,2025-07-05,128,40,168,128,148.0,baixa
+P929,Perfume Quia,2025-05-08,43,7,50,43,46.5,baixa
+P930,Sabonete At,2025-05-15,93,46,139,93,116.0,baixa
+P931,Perfume Soluta,2025-04-18,65,91,156,65,110.5,alta
+P932,Maquiagem Consequuntur,2025-05-05,94,0,94,94,94.0,baixa
+P933,Maquiagem Pariatur,2025-07-27,81,74,155,81,118.0,alta
+P934,Maquiagem Sint,2025-07-12,63,31,94,63,78.5,baixa
+P935,Óleo corporal Quidem,2025-06-12,38,11,49,38,43.5,baixa
+P936,Perfume Sequi,2025-04-26,59,38,97,59,78.0,baixa
+P937,Creme Hidratante Minima,2025-04-30,7,54,61,7,34.0,alta
+P938,Maquiagem Voluptatum,2025-05-25,18,109,127,18,72.5,alta
+P939,Creme Hidratante Voluptate,2025-06-01,30,100,130,30,80.0,alta
+P940,Maquiagem Consectetur,2025-07-19,76,79,155,76,115.5,alta
+P941,Creme Hidratante Reprehenderit,2025-06-09,1,66,67,1,34.0,alta
+P942,Condicionador Quasi,2025-04-19,60,134,194,60,127.0,alta
+P943,Perfume Praesentium,2025-07-29,56,144,200,56,128.0,alta
+P944,Creme Hidratante Illum,2025-04-29,40,25,65,40,52.5,baixa
+P945,Óleo corporal Culpa,2025-04-08,32,58,90,32,61.0,alta
+P946,Perfume Doloribus,2025-05-28,94,29,123,94,108.5,baixa
+P947,Óleo corporal Totam,2025-06-17,1,45,46,1,23.5,alta
+P948,Maquiagem Accusantium,2025-06-04,169,21,190,169,179.5,baixa
+P949,Shampoo Optio,2025-07-08,15,114,129,15,72.0,alta
+P950,Perfume Voluptate,2025-05-31,16,73,89,16,52.5,alta
+P951,Creme Hidratante Doloremque,2025-04-22,67,4,71,67,69.0,baixa
+P952,Creme Hidratante Accusamus,2025-07-11,88,34,122,88,105.0,baixa
+P953,Maquiagem Exercitationem,2025-07-20,36,51,87,36,61.5,alta
+P954,Condicionador Totam,2025-06-16,14,6,20,14,17.0,baixa
+P955,Sabonete Aliquid,2025-05-30,43,147,190,43,116.5,alta
+P956,Óleo corporal Quae,2025-04-12,17,74,91,17,54.0,alta
+P957,Shampoo Ad,2025-06-28,81,35,116,81,98.5,baixa
+P958,Sabonete Saepe,2025-05-14,11,45,56,11,33.5,alta
+P959,Condicionador Sequi,2025-07-04,33,117,150,33,91.5,alta
+P960,Maquiagem Quidem,2025-04-01,12,187,199,12,105.5,alta
+P961,Shampoo Molestiae,2025-06-17,29,2,31,29,30.0,baixa
+P962,Sabonete Veritatis,2025-07-17,58,139,197,58,127.5,alta
+P963,Óleo corporal Natus,2025-06-24,42,78,120,42,81.0,alta
+P964,Shampoo Quibusdam,2025-04-19,110,51,161,110,135.5,baixa
+P965,Creme Hidratante Harum,2025-04-23,138,22,160,138,149.0,baixa
+P966,Sabonete Dignissimos,2025-04-24,142,8,150,142,146.0,baixa
+P967,Shampoo Facere,2025-06-03,19,36,55,19,37.0,alta
+P968,Sabonete Esse,2025-04-02,72,84,156,72,114.0,alta
+P969,Óleo corporal Sapiente,2025-05-05,90,43,133,90,111.5,baixa
+P970,Maquiagem Nisi,2025-05-30,115,41,156,115,135.5,baixa
+P971,Shampoo Nobis,2025-06-13,6,176,182,6,94.0,alta
+P972,Sabonete Deserunt,2025-06-17,3,123,126,3,64.5,alta
+P973,Maquiagem Sint,2025-04-19,25,22,47,25,36.0,alta
+P974,Creme Hidratante Delectus,2025-07-24,100,28,128,100,114.0,baixa
+P975,Condicionador Modi,2025-07-03,45,115,160,45,102.5,alta
+P976,Maquiagem Repellat,2025-05-31,23,150,173,23,98.0,alta
+P977,Creme Hidratante Quia,2025-06-10,72,40,112,72,92.0,baixa
+P978,Óleo corporal Unde,2025-06-07,20,56,76,20,48.0,alta
+P979,Sabonete Ea,2025-04-30,3,101,104,3,53.5,alta
+P980,Óleo corporal Vero,2025-05-20,74,42,116,74,95.0,baixa
+P981,Perfume Odio,2025-05-24,107,68,175,107,141.0,baixa
+P982,Sabonete Non,2025-05-21,3,94,97,3,50.0,alta
+P983,Óleo corporal Cumque,2025-05-28,43,140,183,43,113.0,alta
+P984,Maquiagem Facere,2025-07-23,105,56,161,105,133.0,baixa
+P985,Creme Hidratante Animi,2025-06-19,21,13,34,21,27.5,baixa
+P986,Maquiagem Minima,2025-07-09,47,63,110,47,78.5,alta
+P987,Shampoo Explicabo,2025-07-03,76,16,92,76,84.0,baixa
+P988,Condicionador Voluptatibus,2025-05-24,11,156,167,11,89.0,alta
+P989,Shampoo Dolorem,2025-04-03,98,23,121,98,109.5,baixa
+P990,Condicionador Architecto,2025-06-17,18,165,183,18,100.5,alta
+P991,Condicionador Mollitia,2025-04-29,49,74,123,49,86.0,alta
+P992,Shampoo Cumque,2025-05-25,96,39,135,96,115.5,baixa
+P993,Maquiagem Consectetur,2025-04-12,76,85,161,76,118.5,alta
+P994,Sabonete Assumenda,2025-07-29,44,14,58,44,51.0,baixa
+P995,Sabonete Esse,2025-04-02,40,2,42,40,41.0,baixa
+P996,Maquiagem Laboriosam,2025-06-11,9,24,33,9,21.0,alta
+P997,Creme Hidratante Et,2025-05-01,56,41,97,56,76.5,alta
+P998,Sabonete Suscipit,2025-04-09,15,183,198,15,106.5,alta
+P999,Condicionador Labore,2025-07-11,125,58,183,125,154.0,baixa
+P1000,Shampoo Laudantium,2025-07-23,37,125,162,37,99.5,alta

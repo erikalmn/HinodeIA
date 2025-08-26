@@ -1,0 +1,73 @@
+{
+  "sections": [
+    { "divider": true },
+    {
+      "item": {
+        "label": "Dashboard",
+        "icon": "fas fa-fw fa-tachometer-alt",
+        "hash": "home",
+        "path": "src/pages/home/index.html"
+      }
+    },
+    { "divider": true },
+    { "heading": "Interface" },
+    {
+      "collapse": {
+        "label": "Components",
+        "icon": "fas fa-fw fa-cog",
+        "id": "collapseComponents",
+        "items": [
+          {
+            "label": "Buttons",
+            "hash": "buttons",
+            "path": "src/pages/components/buttons.html"
+          },
+          {
+            "label": "Cards",
+            "hash": "cards",
+            "path": "src/pages/components/cards.html"
+          }
+        ]
+      }
+    },
+    {
+      "collapse": {
+        "label": "Pages",
+        "icon": "fas fa-fw fa-folder",
+        "id": "collapsePages",
+        "groups": [
+          {
+            "header": "Login Screens:",
+            "items": [
+              {
+                "label": "Login",
+                "hash": "login",
+                "path": "src/pages/auth/login.html"
+              },
+              {
+                "label": "Register",
+                "hash": "register",
+                "path": "src/pages/auth/register.html"
+              }
+            ]
+          },
+          {
+            "header": "Outros:",
+            "items": [
+              {
+                "label": "404 Page",
+                "hash": "404",
+                "path": "src/pages/errors/404.html"
+              },
+              {
+                "label": "Blank",
+                "hash": "blank",
+                "path": "src/pages/misc/blank.html"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

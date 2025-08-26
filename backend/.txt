@@ -1,0 +1,47 @@
+Título: IA para Gestão Inteligente de Estoque
+
+# Breve descrição
+
+O projeto tem como objetivo desenvolver uma solução baseada em Inteligência Artificial (IA) para identificar automaticamente produtos com baixa rotatividade em estoque (CD e Franquias). A proposta visa antecipar excessos de inventário, otimizando a gestão de estoques e apoiando a tomada de decisão comercial, considerando o ciclo de vida dos produtos e seu desempenho de vendas. Dessa forma, o sistema irá recomendar campanhas promocionais e ações de marketing para acelerar a rotatividade dos produtos, aumentando a eficiência comercial e reduzindo custos de armazenamento.
+
+# Como a IA será aplicada na prática?
+
+A solução combinará técnicas de machine learning supervisionado e não supervisionado, utilizando dados integrados da plataforma VTEX. As variáveis consideradas incluem: quantidade disponível em estoque, histórico e curva de vendas, datas de fabricação e validade, data da última compra e desempenho por país.
+
+Com esses dados, o modelo será capaz de:
+
+    - Identificar automaticamente produtos com baixa saída, por meio de algoritmos de classificação supervisionada
+    - Classificar os produtos segundo seu estágio no ciclo de vida (lançamento, sazonalidade ou declínio), utilizando aprendizado não supervisionado para segmentação
+    - Gerar recomendações comerciais personalizadas por meio de IA generativa (como o Gemini), sugerindo campanhas ou conteúdos para marketing digital (legendas para Instagram ou roteiros para Reels)
+
+# Variáveis
+
+    - p/ identificar baixa rotatividade:
+        id_produto
+        nome_produto
+        data_lançamento
+        data_fabricacao
+        data_validade
+        data_última_venda (últimos 6 meses)
+        quantidade_em_estoque
+        vendas_no_período
+        estoque_no_início_do_período
+        estoque_no_fim_do_período
+        há quanto tempo ele tá parado em estoque? como definir a baixa rotatividade de um produto?
+            - rotatividade = (data_atual - data_última_venda) > 30 dias = baixa
+            - comparação entre quanto do produto foi vendido com a quantidade que tem no estoque
+                estoque_médio = (estoque_no_início_do_período + estoque_no_fim_do_período) / 2
+                rotatividade = (vendas_no_período / estoque_médio) < 0,5 = baixa
+
+                onde X      = 0    pra nenhuma venda
+                            ~ 2,0  vendeu tudo (s/ reposição)
+                            > 2,0  vendeu muito (c/ reposição)
+                            < 0,5  vendeu pouco [indica baixa rotatividade]
+
+    - p/ gerar dashboard:
+    - p/ recomendar campanha:
+        usar IA Generativa
+        produto já possui campanha?
+        última campanha
+
+# Fluxograma
