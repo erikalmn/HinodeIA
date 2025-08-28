@@ -8,6 +8,16 @@ fetch("data/data.json")
     // Monta a tabela
     await Table(data, body, low, high);
 
+    new DataTable("table", {
+      paging: true,
+      searching: true,
+      ordering: true,
+      responsive: true,
+      language: {
+        url: "https://cdn.datatables.net/plug-ins/2.3.3/i18n/pt-BR.json",
+      }
+    });
+
     // Atualiza os cards
     Cards(data, low, high);
 

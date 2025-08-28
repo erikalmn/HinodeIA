@@ -19,6 +19,25 @@
 
     <!-- Custom styles for this template-->
     <link href="css/admin.css" rel="stylesheet">
+
+    <!-- Custom styles for Table -->
+    <link rel="stylesheet" href="https://cdn.datatables.net/2.3.3/css/dataTables.bootstrap4.css" />
+
+    <style>
+        .pagination a {
+            color: #7d28ec;
+        }
+        .pagination a:focus {
+            outline: none;
+            box-shadow: none;
+        }
+        .pagination a:hover,
+        .pagination .active a {
+            background-color: #7d28ec !important;
+            border-color: #7d28ec !important;
+            color: white;
+        }
+    </style>
 </head>
 
 <body id="page-top">
@@ -290,6 +309,10 @@
     <script src="js/plugins/jquery.easing.min.js"></script>
     <script src="js/plugins/Chart.min.js"></script>
 
+    <!-- datatable -->
+    <script src="https://cdn.datatables.net/2.3.3/js/dataTables.js"></script>
+    <script src="https://cdn.datatables.net/2.3.3/js/dataTables.bootstrap4.js"></script>
+
     <!-- include do html -->
     <script type="module"  src="/js/admin/layout.js"></script>
     <script type="module" src="/js/include.js"></script>
@@ -297,7 +320,6 @@
     <!-- scripts que dependem do html incluído -->
     <script type="module" src="/js/menu.js"></script>
     <script type="module" src="/js/router.js"></script>
-
 </body>
 
 </html>
