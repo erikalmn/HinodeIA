@@ -26,6 +26,10 @@ fetch("data/data.json")
 
     // Gera o gráfico de pizza
     ChartPie(low, high);
+
+    // Gera recomendações
+    Recommendations(low);
+    
   })
   .catch((err) => {
     console.error("Error:", err);
