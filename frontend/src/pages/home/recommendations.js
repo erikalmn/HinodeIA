@@ -1,4 +1,4 @@
-function Recommendations(low) {
+async function Recommendations(low) {
   // Ordena os produtos pelo número de vendas (do menor para o maior)
   const products = low.sort(
     (a, b) => a.vendas_no_período - b.vendas_no_período
@@ -7,19 +7,48 @@ function Recommendations(low) {
   // Limpa o conteúdo atual
   document.getElementById("recommendations").innerHTML = "";
 
-  // Gera uma recomendação personalizada de marketing para os produtos
-  products.forEach((i) => {
-    let product = "";
-    let action = "";
+  // Gera texto de Marketing com IA
+  for (const i of products) {
+    let status = "";
 
-    // Define a recomendação de acordo com o volume de vendas do produto
+    // Define o status de acordo com o volume de vendas do produto
     if (i.vendas_no_período <= 20) {
-      product = `<span class='font-weight-bold'>${i.nome_produto}</span> apresenta baixa saída`;
-      action = "Sugerimos uma <span class='font-weight-bold'>promoção agressiva</span> com descontos maiores para aumentar a visibilidade e atrair clientes.";
+      status = "baixa saída";
     } else if (i.vendas_no_período <= 40) {
-      product = `<span class='font-weight-bold'>${i.nome_produto}</span> tem vendas moderadas`;
-      action = "Recomendamos uma <span class='font-weight-bold'>campanha digital com desconto leve</span>, destacando os diferenciais do produto.";
+      status = "vendas moderadas";
     }
+
+    const prompt = `
+      Crie uma recomendação de marketing breve (máx. 5 linhas) para o produto "${i.nome_produto}", que teve ${status} no período.
+      O texto deve ser direto, sem título, e sugerir ações promocionais criativas que façam sentido para esse cenário.
+    `;
+
+    // OpenRouter
+    const response = await fetch(
+      "https://openrouter.ai/api/v1/chat/completions",
+      {
+        method: "POST",
+        headers: {
+          Authorization: `Bearer ${OPENROUTER_API_KEY}`,
+          "Content-Type": "application/json",
+          "HTTP-Referer": "http://localhost:5173",
+          "X-Title": "Dashboard IA Marketing",
+        },
+        body: JSON.stringify({
+          model: "google/gemini-flash-1.5",
+          messages: [
+            {
+              role: "system",
+              content: "Você é um especialista em marketing digital.",
+            },
+            { role: "user", content: prompt },
+          ],
+        }),
+      }
+    );
+
+    const data = await response.json();
+    const action = data.choices[0].message.content;
 
     // Adiciona o HTML do card
     document.getElementById("recommendations").innerHTML += `
@@ -29,10 +58,10 @@ function Recommendations(low) {
                     <div class="row no-gutters align-items-center">
                         <div class="col mr-2">
                             <div class="text-xs text-purple text-uppercase mb-1">
-                                ${product}
+                              <span class='font-weight-bold'>${i.nome_produto}</span> apresenta ${status}
                             </div>
                             <div class="mb-0 text-gray-800">
-                                ${action}
+                              ${marked.parse(action)}
                             </div>
                         </div>
                     </div>
@@ -40,5 +69,5 @@ function Recommendations(low) {
             </div>
         </div>
     `;
-  });
+  }
 }
